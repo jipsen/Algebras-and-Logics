@@ -2,6 +2,10 @@
 
 Abbreviation: **p-Grp**
 
+($p$-group)[https://en.wikipedia.org/wiki/P-group]
+
+(p-group)[https://www.wikidata.org/wiki/Q286972]
+
 ## Definition
 A ***$p$-group*** is a [group](groups.md) $\mathbf{G}=\langle G, \cdot, ^{-1}, 1\rangle$ such that
 
