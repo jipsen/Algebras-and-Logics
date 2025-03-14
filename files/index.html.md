@@ -146,7 +146,7 @@ If you are familiar with some of these classes of structures and would like some
 1. [FLcw-algebras](heyting_algebras.md)
 1. [FLe-algebras](fle-algebras.md)
 1. [FLec-algebras](flec-algebras.md)
-1. [FLecw-algebras](heyting_Algebras.md)
+1. [FLecw-algebras](heyting_algebras.md)
 1. [FLew-algebras](flew-algebras.md)
 1. [FLi-algebras](fli-algebras.md)
 1. [FLo-algebras](flo-algebras.md)
