@@ -45,7 +45,7 @@ and if $x\le y$ is defined by $x\rightarrow y = 1$ then
 
 $\le$ is a partial order,
 
-$\rightarrow$ is the residual of $\cdot$, i.e., $\x\cdot y\le z \iff y\le x\rightarrow z$, and
+$\rightarrow$ is the residual of $\cdot$, i.e., $x\cdot y\le z \iff y\le x\rightarrow z$, and
 
 $(x\rightarrow y)\cdot x = (y\rightarrow x)\cdot y$.
 
