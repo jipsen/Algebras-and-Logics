@@ -24,7 +24,7 @@ homomorphism:
 
 $h(x\vee y)=h(x)\vee h(y)$, $h(\neg x)=\neg h(x)$
 ## Examples
-Example 1: Let $\{0<a,b<1\}$ be the 4-element lattice with $a,b$ incomparable, and define $'$ by $0'=1,a'=a,b'=b$.
+Example 1: Let $\{0<a,b<1\}$ be the 4-element lattice with $a,b$ incomparable, and define $\neg$ by $\neg0=1,\neg a=a,\neg b=b$.
 ## Basic results
 
 The algebra in Example 1 generates the variety of De Morgan algebras, see e.g. http://www.math.uic.edu/~kauffman/DeMorgan.pdf
