@@ -227,7 +227,7 @@ If you are familiar with some of these classes of structures and would like some
 1. [Modules over a ring](modules_over_a_ring.md)
 1. [Monadic algebras](monadic_algebras.md)
 1. [Monoidal t-norm logic algebras](monoidal_t-norm_logic_algebras.md)
-1. [Monoids](monoids.md), **[Finite monoids](finite_monoids.md), [with zero](finite_monoids_with_zero.md)**
+1. [Monoids](monoids.md), **[Finite monoids](https://jipsen.github.io/finitestructures/finite_monoids.html), [with zero](finite_monoids_with_zero.md)**
 1. [Monounary algebras](monounary_algebras.md)
 1. [Moufang loops](moufang_loops.md)
 1. [Moufang quasigroups](moufang_quasigroups.md)
