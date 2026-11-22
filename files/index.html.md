@@ -1,4 +1,4 @@
-# Algebras and Logics
+# Categories, Algebras and Logics
 
 The pages collected here list information about classes of
 algebraic structures and related logics as well as other relevant categories. The aim is to have a central place to check
