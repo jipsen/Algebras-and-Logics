@@ -7,26 +7,14 @@ An ***ordered group*** is a [partially ordered group](partially_ordered_groups.m
 
 $\le$ is ***linear***:  $x\le y\text{ or }y\le x$
 
-Remark: This is a template.
-If you know something about this class, click on the ``Edit text of this page'' link at the bottom and fill out this page.
-
-It is not unusual to give several (equivalent) definitions. Ideally, one of the definitions would give an irredundant axiomatization that does not refer to other classes.
 
 ### Morphisms
 Let $\mathbf{A}$ and $\mathbf{B}$ be ordered groups. A morphism from $\mathbf{A}$ to $\mathbf{B}$ is a function $h:A\rightarrow B$ that is a orderpreserving homomorphism: 
 $h(x \cdot y)=h(x) \cdot h(y)$,
 $x\le y\Longrightarrow h(x)\le h(y)$.
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
-Example 1: 
+
 
 ## Basic results
 
@@ -57,7 +45,7 @@ Feel free to add or delete properties from this list. The list below may contain
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
-None
+Only one-element algebras
 
 ## Subclasses
   [Abelian ordered groups](abelian_ordered_groups.md)
