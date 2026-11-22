@@ -3,7 +3,7 @@
 Abbreviation: **Grpd**
 
 ## Definition
-A ***groupoid*** is a [category](categorys.md) $\mathbf{C}=\langle C,\circ,\text{dom},\text{cod}\rangle$ such that
+A ***groupoid*** is a [category](categories.md) $\mathbf{C}=\langle C,\circ,\text{dom},\text{cod}\rangle$ such that
 
 every morphism is an isomorphism: $\forall x\exists y\ x\circ y=\text{dom}(x)\text{ and }y\circ x=\text{cod}(x)$ 
 
@@ -33,12 +33,12 @@ Feel free to add or delete properties from this list. The list below may contain
 |[Residual size](residual_size.md)                    | |
 |[Congruence distributive](congruence_distributive.md)          | |
 |[Congruence modular](congruence_modular.md)               | |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        | |
+|[Congruence n-permutable](congruence_n-permutable.md)        | |
 |[Congruence regular](congruence_regular.md)               | |
 |[Congruence uniform](congruence_uniform.md)               | |
 |[Congruence extension property](congruence_extension_property.md)    | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      | |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -69,5 +69,4 @@ http://oeis.org/A140189
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 

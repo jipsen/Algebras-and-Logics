@@ -5,7 +5,7 @@ Abbreviation: **CLat**
 A ***complete lattice*** is a structure $\mathbf{L}=\langle L,\bigvee,\bigwedge\rangle$ such that $\bigvee,\bigwedge$ map
 subsets of $L$ to elements of $L$ and
 
-$\langle L,\vee,\wedge\rangle$ is a [lattices|lattice](lattices|lattices.md) where $x\vee y=\bigvee\{x,y\}$, $x\wedge y=\bigwedge\{x,y\}$ and
+$\langle L,\vee,\wedge\rangle$ is a [lattice](lattices.md) where $x\vee y=\bigvee\{x,y\}$, $x\wedge y=\bigwedge\{x,y\}$ and
 
 $\bigvee S$ is the least upper bound of $S$,
 

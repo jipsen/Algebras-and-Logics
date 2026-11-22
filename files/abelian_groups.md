@@ -46,7 +46,7 @@ Classification of finitely generated abelian groups: Every $n$-generated abelian
 
 |Property|Value|
 |---|---|
-|[Classtype](Classtype.md)                       |variety |
+|[Classtype](classtype.md)                       |variety |
 |[Equational theory](equational_theory.md)               |decidable in polynomial time |
 |[Quasiequational theory](quasiequational_theory.md)          |decidable |
 |[First-order theory](first-order_theory.md)]              |decidable |
@@ -59,7 +59,7 @@ Classification of finitely generated abelian groups: Every $n$-generated abelian
 |[Congruence types](congruence_types.md)                |permutational |
 |[Congruence extension property](congruence_extension_property.md)   |yes, if $K\le H\le G$ then $K\le G$ |
 |[Definable principal congruences](definable_principal_congruences.md) |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)     |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)     |no |
 |[Amalgamation property](amalgamation_property.md)           |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)    |yes |
 

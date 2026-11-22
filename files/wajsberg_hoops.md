@@ -34,11 +34,11 @@ Example 1:
 |[Congruence n-permutable](congruence_n-permutable.md)  | |
 Congruence regular & yes Radim Belohlovek, ***On the regularity of MV-algebras and Wajsberg hoops***,
 Algebra Universalis,
-**44**, 2000, 375--377[MRreview](mrreviews.md)\\\hline
+**44**, 2000, 375--377\\\hline
 |[Congruence uniform](congruence_uniform.md)  | |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |

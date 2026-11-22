@@ -1,7 +1,7 @@
 # Boolean algebras
 
-Abbreviation: **BA** nbsp nbsp nbsp nbsp nbsp Search: [http://www.google.com/search?q=boolean+algebras|Boolean algebras](http://www.google.com/search?q=boolean+algebras|boolean_algebras.md)
-[http://www.google.com/search?q=boolean+rings|Boolean rings](http://www.google.com/search?q=boolean+rings|boolean_rings.md)
+Abbreviation: **BA** nbsp nbsp nbsp nbsp nbsp Search: [Boolean algebras](http://www.google.com/search?q=boolean+algebras)
+[Boolean rings](http://www.google.com/search?q=boolean+rings)
 
 ## Definition
 A ***Boolean algebra*** is a structure $\mathbf{A}=\langle A,\vee
@@ -79,7 +79,7 @@ setcomplementation.
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |yes |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |yes |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |yes |
 |[Amalgamation property](amalgamation_property.md)  |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |yes |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |yes |

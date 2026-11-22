@@ -31,13 +31,13 @@ Example 1: The negative cone of any l-group, e.g., $\mathbb Z^-$
 |[Residual size](residual_size.md)                    |unbounded  |
 |[Congruence distributive](congruence_distributive.md)          |yes  |
 |[Congruence modular](congruence_modular.md)               |yes  |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        |yes  |
+|[Congruence n-permutable](congruence_n-permutable.md)        |yes  |
 |[Congruence regular](congruence_regular.md)               |no  |
 |[Congruence $e$-regular](congruence_$e$-regular.md)           |yes  |
 |[Congruence uniform](congruence_uniform.md)               |no  |
 |[Congruence extension property](congruence_extension_property.md)    |no  |
 |[Definable principal congruences](definable_principal_congruences.md)  |no  |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      |no |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -75,7 +75,6 @@ $\begin{array}{lr}
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 
 
 

@@ -44,7 +44,7 @@ set $S$.
 |[Congruence uniform](congruence_uniform.md)  | |
 |[Congruence extension property](congruence_extension_property.md)  |no |
 |[Definable principal congruences](definable_principal_congruences.md)  |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  | Yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | Yes [BrunsHarding1997] |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -67,4 +67,4 @@ set $S$.
 
 
 G. Bruns and J. Harding, ***Amalgamation of ortholattices***, Order 14 (1997/98), no. 3, 193–209
-[http://www.ams.org/mathscinet-getitem?mr=99f:06014|MRreview](http://www.ams.org/mathscinet-getitem?mr=99f:06014|mrreviews.md)
+[MRreview](http://www.ams.org/mathscinet-getitem?mr=99f:06014)

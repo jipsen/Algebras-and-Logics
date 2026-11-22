@@ -43,7 +43,7 @@ strings over $\Sigma$, with concatenation.
 |[Congruence uniform](congruence_uniform.md)  |no |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  |no |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |no |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |no |
@@ -70,7 +70,7 @@ f(9)= &105\,978\,177\,936\,292\\
 
 [Monoids](monoids.md) 
 
-[Semigroups with zero](semigroups_with_zeros.md) 
+[Semigroups with zero](semigroups_with_zero.md) 
 
 ## Superclasses
 [Groupoids](groupoids.md) 

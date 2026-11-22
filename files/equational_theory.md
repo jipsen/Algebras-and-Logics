@@ -14,4 +14,4 @@ The equational theory is ***decidable*** if there is an algorithm that solves th
 The complexity of the decision problem (if known) is one of PTIME, NPTIME, PSPACE, EXPTIME, ...
 
 G. Birkhoff showed that for classes of algebras, equational theories are precisely the sets of equations that are closed
-under the standard rules of equational logic, see [http://www.thoralf.uwaterloo.ca/htdocs/ualg.html|Stanley N. Burris and H.P. Sankappanavar, A Course in Universal Algebra](http://www.thoralf.uwaterloo.ca/htdocs/ualg.html|stanley_n._burris_and_h.p._sankappanavar,_a_course_in_universal_algebras.md).
+under the standard rules of equational logic, see [Stanley N. Burris and H.P. Sankappanavar, A Course in Universal Algebra](http://www.thoralf.uwaterloo.ca/htdocs/ualg.html).

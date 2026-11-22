@@ -21,7 +21,7 @@ Remark: It follows that $f(x\wedge y)=f(x)\wedge f(y)$, $f(x^{-1})=f(x)^{-1}$, a
 
 
 ## Basic results
-Every representable $\ell$-group is a subdirect product of [Ordered groups|totally ordered groups](ordered_groups|totally_ordered_groups.md).
+Every representable $\ell$-group is a subdirect product of [totally ordered groups](ordered_groups.md).
 
 
 ## Properties
@@ -42,7 +42,7 @@ Every representable $\ell$-group is a subdirect product of [Ordered groups|total
 |[Congruence uniform](congruence_uniform.md)              |yes, (see [groups](groups.md)) |
 |[Congruence extension property](congruence_extension_property.md)   | |
 |[Definable principal congruences](definable_principal_congruences.md) | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)     | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)     | |
 |[Amalgamation property](amalgamation_property.md)           |no [GlassSaracinoWood1984] |
 |[Strong amalgamation property](strong_amalgamation_property.md)    |no [CherriPowell1993] |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)     | |

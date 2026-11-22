@@ -14,7 +14,7 @@ The quasiequational theory is ***decidable*** if there is an algorithm that solv
 The complexity of the decision problem (if known) is one of PTIME, NPTIME, PSPACE, EXPTIME, ...
 
 A complete deductive system for quasiequations is given in [A. Selman, ***Completeness of calculi for axiomatically defined classes of algebras***, 
-Algebra Universalis, **2**, 1972, 20--32 [http://www.ams.org/mathscinet-getitem?mr=47:1725|MRreview](http://www.ams.org/mathscinet-getitem?mr=47:1725|mrreviews.md).
+Algebra Universalis, **2**, 1972, 20--32 [MRreview](http://www.ams.org/mathscinet-getitem?mr=47:1725).
 Additional information on quasiequations can be found e.g. in
-[http://www.thoralf.uwaterloo.ca/htdocs/ualg.html|Stanley N. Burris and H.P. Sankappanavar, A Course in Universal Algebra](http://www.thoralf.uwaterloo.ca/htdocs/ualg.html|stanley_n._burris_and_h.p._sankappanavar,_a_course_in_universal_algebras.md).
+[Stanley N. Burris and H.P. Sankappanavar, A Course in Universal Algebra](http://www.thoralf.uwaterloo.ca/htdocs/ualg.html).
 

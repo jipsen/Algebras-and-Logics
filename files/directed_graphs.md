@@ -45,12 +45,12 @@ Feel free to add or delete properties from this list. The list below may contain
 |[Residual size](residual_size.md)                    | |
 |[Congruence distributive](congruence_distributive.md)          |no |
 |[Congruence modular](congruence_modular.md)               |no |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        |no |
+|[Congruence n-permutable](congruence_n-permutable.md)        |no |
 |[Congruence regular](congruence_regular.md)               |no |
 |[Congruence uniform](congruence_uniform.md)               |no |
 |[Congruence extension property](congruence_extension_property.md)    | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      | |
 |[Amalgamation property](amalgamation_property.md)            |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)     |yes |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -74,21 +74,16 @@ $\begin{array}{lr}
 
 
 ## Subclasses
-  [...](...s.md) subvariety
 
-  [...](...s.md) expansion
 
 
 ## Superclasses
-  [...](...s.md) supervariety
 
-  [...](...s.md) subreduct
 
 
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 
 
 

@@ -2,7 +2,7 @@
 
 Abbreviation: **DRng**
 ## Definition
-A ***division ring*** (also called ***skew field***) is a [rings with identity|ring with identity](rings_with_identity|ring_with_identitys.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1
+A ***division ring*** (also called ***skew field***) is a [ring with identity](rings_with_identity.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1
 \rangle$ such that
 
 
@@ -50,7 +50,7 @@ $0$ is a zero for $\cdot$: $0\cdot x=x$ and $x\cdot 0=0$.
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -58,7 +58,7 @@ $0$ is a zero for $\cdot$: $0\cdot x=x$ and $x\cdot 0=0$.
 Every finite division ring is a [fields](fields.md) (i.e. $\cdot$ is commutative).
 J. H. Maclagan-Wedderburn,***A theorem on finite algebras***,
 Trans. Amer. Math. Soc.,
-**6**1905,349--352[MRreview](mrreviews.md)
+**6**1905,349--352
 
 ## Subclasses
 [Fields](fields.md) 
@@ -66,7 +66,7 @@ Trans. Amer. Math. Soc.,
 [Algebraically closed division rings](algebraically_closed_division_rings.md) 
 
 ## Superclasses
-[Rings with identity](rings_with_identitys.md) 
+[Rings with identity](rings_with_identity.md) 
 
 
 ## References

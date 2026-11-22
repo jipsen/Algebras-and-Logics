@@ -1,4 +1,4 @@
-[Syntax](syntaxs.md) | [Terms](terms.md) | [Equations](equations.md) | [Horn formulas](horn_formulas.md) | [Universal formulas](universal_formulas.md) | [First-order formulas](first-order_formulas.md) | [Theories](theories.md)
+[Syntax](syntax.md) | [Terms](terms.md) | [Equations](equations.md) | [Horn formulas](horn_formulas.md) | [Universal formulas](universal_formulas.md) | [First-order formulas](first-order_formulas.md) | [Theories](theories.md)
 
 Here we list distinct terms with no constant subterms other than $0, 1$.
 

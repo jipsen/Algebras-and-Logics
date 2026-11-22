@@ -58,7 +58,7 @@ A Heyting algebra is subdirectly irreducible if and only if it has a unique coat
 |[Congruence uniform](congruence_uniform.md)  |no |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |yes |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |yes |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |yes |
 |[Amalgamation property](amalgamation_property.md)  |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |yes |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |yes |
@@ -89,7 +89,7 @@ f(20)= &18428\\
 
 Values known up to size 49  Marcel Ern\'e;, Jobst Heitzig and J\"urgen Reinhold,***On the number of distributive lattices***,
 Electron. J. Combin.,
-**9**2002,Research Paper 24, 23 pp. (electronic)[MRreview](mrreviews.md)
+**9**2002,Research Paper 24, 23 pp. (electronic)
 
 ## Subclasses
 [Goedel algebras](goedel_algebras.md) 

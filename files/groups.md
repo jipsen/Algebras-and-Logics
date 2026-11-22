@@ -55,7 +55,7 @@ identity matrix.
 |[Congruence types](congruence_types.md)  |1=permutational |
 |[Congruence extension property](congruence_extension_property.md)  |no, consider a non-simple subgroup of a simple group |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |yes |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |yes |

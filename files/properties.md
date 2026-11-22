@@ -10,7 +10,7 @@ Click on a property to get a brief explanation.
 
 |Property|Value|
 |---|---|
-|[Classtype](classtype.md)                                    |[varieties|variety](varieties|variety.md), [quasivarieties|quasivariety](quasivarieties|quasivarietys.md), [universal classes|universal class](universal_classes|universal_class.md), [first-order classes|first-order class](first-order_classes|first-order_class.md), [second-order classes|second-order class](second-order_classes|second-order_class.md), higher-order class |
+|[Classtype](classtype.md)                                    |[variety](varieties.md), [quasivariety](quasivarieties.md), [universal class](universal_classes.md), [first-order class](first-order_classes.md), [second-order class](second-order_classes.md), higher-order class |
 |[Equational theory](equational_theory.md)                            |decidable (PTIME, NPTIME, PSPACE, EXPTIME,...), undecidable, unspecified (so far) |
 |[Quasiequational theory](quasiequational_theory.md)                       |decidable (PTIME, NPTIME, PSPACE, EXPTIME,...), undecidable, unspecified (so far) |
 |[First-order theory](first-order_theory.md)                           |decidable (PTIME, NPTIME, PSPACE, EXPTIME,...), undecidable, unspecified (so far) |
@@ -25,7 +25,7 @@ Click on a property to get a brief explanation.
 |[Congruence types](congruence_types.md)                             |permutational (1), abelian (2), Boolean (3), lattice (4), semilattice (5) |
 |[Congruence extension property](congruence_extension_property.md)                |yes, no, unspecified (so far) |
 |[Definable principal congruences](definable_principal_congruences.md)              |yes, no, unspecified (so far) |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)                  |yes, no, unspecified (so far) |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)                  |yes, no, unspecified (so far) |
 |[Amalgamation property](amalgamation_property.md)                        |yes, no, unspecified (so far) |
 |[Strong amalgamation property](strong_amalgamation_property.md)                 |yes, no, unspecified (so far) |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)                  |yes, no, unspecified (so far) |

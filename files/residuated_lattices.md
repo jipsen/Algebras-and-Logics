@@ -46,7 +46,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)               |no |
 |[Congruence extension property](congruence_extension_property.md)    |no |
 |[Definable principal congruences](definable_principal_congruences.md)  |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      |no |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -87,6 +87,6 @@ f(8)= &295292\\
 
 
 Hiroakira Ono, Yuichi Komori, ***Logics without the contraction rule***,
-J. Symbolic Logic, **50**, 1985, 169--201 [MRreview](mrreviews.md)[ZMATH](zmaths.md)
+J. Symbolic Logic, **50**, 1985, 169--201[ZMATH](zmaths.md)
 )]\end{document}
 %</pre>

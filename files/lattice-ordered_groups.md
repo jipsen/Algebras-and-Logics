@@ -65,7 +65,7 @@ The lattice reducts of lattice-ordered groups are [distributive lattices](distri
 |[Congruence regular](congruence_regular.md)  |yes, see [groups](groups.md) |
 |[Congruence uniform](congruence_uniform.md)  |yes, see [groups](groups.md) |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  |no |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |no |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -91,7 +91,7 @@ Algebra Universalis,
 A. M. W. Glass, Yuri Gurevich,
 ***The word problem for lattice-ordered groups***,
 Trans. Amer. Math. Soc., **280** 1983, 127--138
-[http://www.ams.org/mathscinet-getitem?mr=85d:06015|MRreview](http://www.ams.org/mathscinet-getitem?mr=85d:06015|mrreviews.md)[http://www.emis.de/MATH-item?0586.03037|ZMATH](http://www.emis.de/math-item?0586.03037|zmaths.md)
+[MRreview](http://www.ams.org/mathscinet-getitem?mr=85d:06015)[ZMATH](http://www.emis.de/MATH-item?0586.03037)
 
 
 Yuri Gurevic, ***Hereditary undecidability of a class of lattice-ordered Abelian groups***,
@@ -102,11 +102,11 @@ Algebra i Logika Sem.,
 W. Charles Holland, Stephen H. McCleary,
 ***Solvability of the word problem in free lattice-ordered groups***,
 Houston J. Math., **5** 1979, 99--105
-[http://www.ams.org/mathscinet-getitem?mr=80f:06018|MRreview](http://www.ams.org/mathscinet-getitem?mr=80f:06018|mrreviews.md)[http://www.emis.de/MATH-item?0404.06009|ZMATH](http://www.emis.de/math-item?0404.06009|zmaths.md)
+[MRreview](http://www.ams.org/mathscinet-getitem?mr=80f:06018)[ZMATH](http://www.emis.de/MATH-item?0404.06009)
 [http://www.chapman.edu/~jipsen/lgroups/lgroupDecisionProc.html implementation]
 
 
 Keith R. Pierce,
 ***Amalgamations of lattice ordered groups***,
 Trans. Amer. Math. Soc., **172** 1972, 249--260
-[http://www.ams.org/mathscinet-getitem?mr=48 :3835|MRreview](http://www.ams.org/mathscinet-getitem?mr=48_:3835|mrreviews.md)[http://www.emis.de/MATH-item?0259.06017|ZMATH](http://www.emis.de/math-item?0259.06017|zmaths.md)
+[MRreview](http://www.ams.org/mathscinet-getitem?mr=48:3835)[ZMATH](http://www.emis.de/MATH-item?0259.06017)

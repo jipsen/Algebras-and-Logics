@@ -14,13 +14,13 @@ Note that when the structures are algebras then the atomic formulas are simply e
 
 ### = Properties implied by EDP(R)C =
 
-Relative [congruence extension property](congruence_extension_propertys.md)
+Relative [congruence extension property](congruence_extension_property.md)
 
-Relatively [congruence distributive](congruence_distributives.md)
+Relatively [congruence distributive](congruence_distributive.md)
 
-[Definable principal congruences|Definable principal (relative) congruences](definable_principal_congruences|definable_principal_(relative)_congruences.md)
+[Definable principal (relative) congruences](definable_principal_congruences.md)
 
 ### = References =
-W. J. Blok and D. Pigozzi, ***On the structure of varieties with equationally definable principal congruences. I, II, III, IV***, Algebra Universalis, **15**, 1982, 195-227 [http://www.ams.org/mathscinet-getitem?mr=85g:08005|MRreview](http://www.ams.org/mathscinet-getitem?mr=85g:08005|mrreviews.md), **18**, 1984, 334-379 [http://www.ams.org/mathscinet-getitem?mr=86e:08005|MRreview](http://www.ams.org/mathscinet-getitem?mr=86e:08005|mrreviews.md),
-**32**, 1994, 545-608 [http://www.ams.org/mathscinet-getitem?mr=96b:08007|MRreview](http://www.ams.org/mathscinet-getitem?mr=96b:08007|mrreviews.md), **31**, 1994, 
-1-35 [http://www.ams.org/mathscinet-getitem?mr=95c:03144|MRreview](http://www.ams.org/mathscinet-getitem?mr=95c:03144|mrreviews.md)
+W. J. Blok and D. Pigozzi, ***On the structure of varieties with equationally definable principal congruences. I, II, III, IV***, Algebra Universalis, **15**, 1982, 195-227 [MRreview](http://www.ams.org/mathscinet-getitem?mr=85g:08005), **18**, 1984, 334-379 [MRreview](http://www.ams.org/mathscinet-getitem?mr=86e:08005),
+**32**, 1994, 545-608 [MRreview](http://www.ams.org/mathscinet-getitem?mr=96b:08007), **31**, 1994, 
+1-35 [MRreview](http://www.ams.org/mathscinet-getitem?mr=95c:03144)

@@ -1,1 +1,1 @@
-Show all pages that mention [http://math.chapman.edu/~jipsen/structures/doku.php/?do=search&id="second-order+class"&fulltext=Search| second-order classes](http://math.chapman.edu/~jipsen/structures/doku.php/?do=search&id="second-order+class"&fulltext=search|_second-order_classes.md)
+Show all pages that mention [ second-order classes](http://math.chapman.edu/~jipsen/structures/doku.php/?do=search&id="second-order+class"&fulltext=Search)

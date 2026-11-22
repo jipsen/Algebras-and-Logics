@@ -32,12 +32,12 @@ The free unary algebra on $X$ generators is a union of $|X|$ disjoint copies of 
 |[Residual size](residual_size.md)                    | |
 |[Congruence distributive](congruence_distributive.md)          |no |
 |[Congruence modular](congruence_modular.md)               |no |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        |no |
+|[Congruence n-permutable](congruence_n-permutable.md)        |no |
 |[Congruence regular](congruence_regular.md)               |no |
 |[Congruence uniform](congruence_uniform.md)               |no |
 |[Congruence extension property](congruence_extension_property.md)    |no |
 |[Definable principal congruences](definable_principal_congruences.md)  |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      |no |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |

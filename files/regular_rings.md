@@ -2,7 +2,7 @@
 
 Abbreviation: **RRng**
 ## Definition
-A ***regular ring*** is a [rings with identity](rings_with_identitys.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1
+A ***regular ring*** is a [rings with identity](rings_with_identity.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1
 \rangle$ such that
 
 every element has a pseudo-inverse:  $\forall x\exists y(x\cdot y\cdot x=x)$
@@ -36,7 +36,7 @@ It follows that $h(0)=0$ and $h(-x)=-h(x)$.
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -55,7 +55,7 @@ f(6)= &\\
 [Division rings](division_rings.md) 
 
 ## Superclasses
-[Rings with identity](rings_with_identitys.md) 
+[Rings with identity](rings_with_identity.md) 
 
 
 ## References

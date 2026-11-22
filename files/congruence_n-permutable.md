@@ -21,5 +21,5 @@ the variety.
 
 Congruence $n$-permutability implies congruence $n+1$-permutability.
 
-Congruence $3$-permutability implies congruence modularity[[Bjarni Jónsson, ***On the representation of lattices***, Math. Scand, **1**, 1953, 193-206 [http://www.ams.org/mathscinet-getitem?mr=15:389d|MRreview](http://www.ams.org/mathscinet-getitem?mr=15:389d|mrreviews.md)].
+Congruence $3$-permutability implies congruence modularity[[Bjarni Jónsson, ***On the representation of lattices***, Math. Scand, **1**, 1953, 193-206 [MRreview](http://www.ams.org/mathscinet-getitem?mr=15:389d)].
 

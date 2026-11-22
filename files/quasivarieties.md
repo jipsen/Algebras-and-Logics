@@ -1,1 +1,1 @@
-Show all pages that mention [http://math.chapman.edu/~jipsen/structures/doku.php/?do=search&id=quasivariety&fulltext=Search| quasivarieties](http://math.chapman.edu/~jipsen/structures/doku.php/?do=search&id=quasivariety&fulltext=search|_quasivarieties.md)
+Show all pages that mention [ quasivarieties](http://math.chapman.edu/~jipsen/structures/doku.php/?do=search&id=quasivariety&fulltext=Search)

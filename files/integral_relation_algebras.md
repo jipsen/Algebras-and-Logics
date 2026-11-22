@@ -45,12 +45,12 @@ Every [group relation algebra](group_relation_algebras.md) is integral.
 |[Residual size](residual_size.md)                    |no  |
 |[Congruence distributive](congruence_distributive.md)          |yes  |
 |[Congruence modular](congruence_modular.md)               |yes  |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        |yes  |
+|[Congruence n-permutable](congruence_n-permutable.md)        |yes  |
 |[Congruence regular](congruence_regular.md)               |yes  |
 |[Congruence uniform](congruence_uniform.md)               |yes  |
 |[Congruence extension property](congruence_extension_property.md)    |yes  |
 |[Definable principal congruences](definable_principal_congruences.md)  |no  |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      |no  |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      |no  |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -76,5 +76,4 @@ See http://www1.chapman.edu/~jipsen/gap/ramaddux.html for more information.
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 

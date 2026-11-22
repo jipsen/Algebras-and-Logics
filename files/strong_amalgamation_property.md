@@ -15,10 +15,10 @@ $f'\circ f=g'\circ g$ and $\text{Im}(f ')\cap \text{Im}(g')=\text{Im}(f'\circ f)
 where $\text{Im}(f ')=\{f '(x) | x\in B\}$.
 
 ### Properties that imply the SAP
-[Amalgamation property](amalgamation_propertys.md) and [Epimorphisms are surjective](epimorphisms_are_surjectives.md)
+[Amalgamation property](amalgamation_property.md) and [Epimorphisms are surjective](epimorphisms_are_surjective.md)
 
 [Superamalgamation property](superamalgamation_propertys.md)
 
 ### Properties implied by the SAP
-[Amalgamation property](amalgamation_propertys.md)
+[Amalgamation property](amalgamation_property.md)
 

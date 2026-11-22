@@ -10,6 +10,6 @@ $u,v$, where "relative" means that $\mathbf{A}//\theta\in\mathcal{K}$.
 
 ### = Properties that imply DP(R)C =
 
-[Equationally def. pr. cong.|Equationally definable principal (relative) congruences](equationally_def._pr._cong.|equationally_definable_principal_(relative)_congruences.md)
+[Equationally definable principal (relative) congruences](equationally_def._pr._cong.md)
 
 ### = Properties implied by DP(R)C =

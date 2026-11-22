@@ -48,7 +48,7 @@ Example 2: $\langle \mathcal P(G), \cup, \emptyset, \cap, G, -, \circ, ^\smile, 
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |yes |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |yes |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |yes |
 |[Discriminator variety](discriminator_variety.md)  |yes |
 |[Amalgamation property](amalgamation_property.md)  |no |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |no |
