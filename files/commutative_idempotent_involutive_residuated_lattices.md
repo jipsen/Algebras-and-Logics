@@ -58,25 +58,26 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &1\\
-  f(4)= &2\\
-  f(5)= &2\\
-  f(6)= &4\\
-  f(7)= &4\\
-  f(8)= &9\\
-  f(9)= &10\\
-  f(10)= &21\\
-  f(11)= &22\\
-  f(12)= &49\\
-  f(13)= &52\\
-  f(14)= &114\\
-  f(15)= &121\\
-  f(16)= &270\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 2 |
+| 6 | 4 |
+| 7 | 4 |
+| 8 | 9 |
+| 9 | 10 |
+| 10 | 21 |
+| 11 | 22 |
+| 12 | 49 |
+| 13 | 52 |
+| 14 | 114 |
+| 15 | 121 |
+| 16 | 270 |
 
 ## Subclasses
 [Sugihara algebras](sugihara_algebras.md) subvariety

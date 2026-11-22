@@ -48,15 +48,16 @@ Example 1: Brouwerian algebras
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-| n | # of algebras |
-| --- | --- |
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
 | 1 | 1 |
 | 2 | 1 |
 | 3 | 2 |
 | 4 | 8 |
 | 5 | 32 |
 | 6 | 147 |
-| 7 |  |
 
 ## Subclasses
 [Commutative distributive residuated lattices](commutative_distributive_residuated_lattices.md) 

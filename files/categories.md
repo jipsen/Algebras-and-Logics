@@ -68,20 +68,18 @@ $\text{cod}(\text{cod}(x))=\text{cod}(x)=\text{dom}(\text{cod}(x))$
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &3\\
-  f(3)= &11\\
-  f(4)= &55\\
-  f(5)= &329\\
-  f(6)= &2858\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-http://oeis.org/A125696
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 11 |
+| 4 | 55 |
+| 5 | 329 |
+| 6 | 2858 |
+
+[OEIS A125696](https://oeis.org/A125696)
 
 ## Subclasses
 [Schroeder categories](schroeder_categories.md)

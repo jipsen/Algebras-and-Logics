@@ -52,21 +52,20 @@ Any finite partially ordered group has only the equality relation as partial ord
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &1\\
-  f(4)= &2\\
-  f(5)= &1\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &2\\
-  f(7)= &1\\
-  f(8)= &5\\
-  f(9)= &2\\
-  f(10)= &2\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 1 |
+| 6 | 2 |
+| 7 | 1 |
+| 8 | 5 |
+| 9 | 2 |
+| 10 | 2 |
 
 ## Subclasses
 [Abelian partially ordered groups](abelian_partially_ordered_groups.md)

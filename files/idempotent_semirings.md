@@ -43,14 +43,14 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &6\\
-f(3)= &61\\
-f(4)= &866\\
-f(5)= &\\
-f(6)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 6 |
+| 3 | 61 |
+| 4 | 866 |
 
 ## Subclasses
 [Idempotent semirings with identity](idempotent_semirings_with_identity.md) 

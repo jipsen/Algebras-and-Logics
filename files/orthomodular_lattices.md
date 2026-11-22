@@ -85,19 +85,20 @@ edges([0,8,7,9,0]);
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &0\\
-f(4)= &1\\
-f(5)= &0\\
-f(6)= &1\\
-f(7)= &0\\
-f(8)= &2\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 0 |
+| 4 | 1 |
+| 5 | 0 |
+| 6 | 1 |
+| 7 | 0 |
+| 8 | 2 |
 
 Many Greechie diagrams of orthomodular lattices with blocks containing 3 atoms have been computed at http://cs.anu.edu.au/~Brendan.McKay/nauty/greechie.html
-
 
 ## Subclasses
 [Modular ortholattices](modular_ortholattices.md) 

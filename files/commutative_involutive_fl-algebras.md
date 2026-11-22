@@ -58,21 +58,18 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &2\\
-  f(4)= &9\\
-  f(5)= &21\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &100\\
-  f(7)= &276\\
-  f(8)= &1392\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 9 |
+| 5 | 21 |
+| 6 | 100 |
+| 7 | 276 |
+| 8 | 1392 |
 
 ## Subclasses
 [Commutative idempotent involutive FL-algebras](commutative_idempotent_involutive_fl-algebras.md) subvariety

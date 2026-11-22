@@ -56,19 +56,19 @@ Feel free to add or delete properties from this list. The list below may contain
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &3\\
-  f(4)= &7\\
-  f(5)= &22\\
-  f(6)= &73\\
-  f(7)= &298\\
-  f(8)= &1581\\
-  f(9)= &11079\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 3 |
+| 4 | 7 |
+| 5 | 22 |
+| 6 | 73 |
+| 7 | 298 |
+| 8 | 1581 |
+| 9 | 11079 |
 
 ## Subclasses
 [Involutory quandles](involutory_quandles.md)

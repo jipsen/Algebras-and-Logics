@@ -131,12 +131,38 @@ Example 1:
 
 ## Finite members
 
-^$n$       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-^# of algs | 1 | 1 | 1 | 2 | 1 | 2 | 1 | 3 | 2 |  2 |  1 |  4 |  1 |  2 |  2 |  5 |  1 |  4 |  1 |  4 |  2 |  2 |  1 |  7 |  2 |
-^# of si's | 0 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |  1 |
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members | subdirectly irreducible |
+|--:|--:|--:|
+| 1 | 1 | 0 |
+| 2 | 1 | 1 |
+| 3 | 1 | 1 |
+| 4 | 2 | 1 |
+| 5 | 1 | 1 |
+| 6 | 2 | 1 |
+| 7 | 1 | 1 |
+| 8 | 3 | 1 |
+| 9 | 2 | 1 |
+| 10 | 2 | 1 |
+| 11 | 1 | 1 |
+| 12 | 4 | 1 |
+| 13 | 1 | 1 |
+| 14 | 2 | 1 |
+| 15 | 2 | 1 |
+| 16 | 5 | 1 |
+| 17 | 1 | 1 |
+| 18 | 4 | 1 |
+| 19 | 1 | 1 |
+| 20 | 4 | 1 |
+| 21 | 2 | 1 |
+| 22 | 2 | 1 |
+| 23 | 1 | 1 |
+| 24 | 7 | 1 |
+| 25 | 2 | 1 |
 
 The number of algebras with $n$ elements is given by the number of ways of factoring $n$ into a product with nontrivial factors,
-see http://oeis.org/A001055
+see [OEIS A001055](https://oeis.org/A001055)
 
 ## Subclasses
 [Boolean algebras](boolean_algebras.md) 

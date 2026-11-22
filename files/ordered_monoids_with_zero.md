@@ -46,19 +46,18 @@ Feel free to add or delete properties from this list. The list below may contain
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
-$f(n)=$ number of members of size $n$.
+Number of members with $n$ elements, counted up to isomorphism.
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &3\\
-f(4)= &15\\
-f(5)= &84\\
-f(6)= &575\\
-f(7)= &4687\\
-f(8)= &45223\\
-f(9)= &\\
-\end{array}$
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 3 |
+| 4 | 15 |
+| 5 | 84 |
+| 6 | 575 |
+| 7 | 4687 |
+| 8 | 45223 |
 
 ## Subclasses
 [Commutative ordered monoids](commutative_ordered_monoids.md)

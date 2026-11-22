@@ -50,23 +50,16 @@ However, the category of partial semigroups is not the same as the category of s
 
 ## Finite members
 
-http://mathv.chapman.edu/~jipsen/uajs/PSgrp.html 
+Number of members with $n$ elements, counted up to isomorphism.
 
-$\begin{array}{lr}
-  f(1)= &2\\
-  f(2)= &12\\
-  f(3)= &90\\
-  f(4)= &960\\
-  f(5)= &\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+| $n$ | members |
+|--:|--:|
+| 1 | 2 |
+| 2 | 12 |
+| 3 | 90 |
+| 4 | 960 |
 
+http://mathv.chapman.edu/~jipsen/uajs/PSgrp.html
 
 ## Subclasses
 [Semigroups](semigroups.md)

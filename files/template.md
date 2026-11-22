@@ -62,10 +62,11 @@ Feel free to add or delete properties from this list. The list below may contain
 
 ## Finite members
 
-|$n=$     | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10|
-|---------|---|---|---|---|---|---|---|---|---|---|
-|# of algs| 1 |
+Number of members with $n$ elements, counted up to isomorphism. (Format: see [Finite members](finite_members.md).)
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
 
 ## Equivalent categories
 

@@ -55,25 +55,27 @@ $\forall x\exists y\ xx^{-1}=y^{-1}y$
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |Yes |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &2\\
-f(3)= &5\\
-f(4)= &16\\
-f(5)= &52\\
-f(6)= &208\\
-f(7)= &911\\
-f(8)= &4637\\
-f(9)= &26422\\
-f(10)= &169163\\
-f(11)= &1198651\\
-f(12)= &9324047\\
-f(13)= &78860687\\
-f(14)= &719606005\\
-f(15)= &7035514642\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism and anti-isomorphism.
 
-http://oeis.org/A001428
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 5 |
+| 4 | 16 |
+| 5 | 52 |
+| 6 | 208 |
+| 7 | 911 |
+| 8 | 4637 |
+| 9 | 26422 |
+| 10 | 169163 |
+| 11 | 1198651 |
+| 12 | 9324047 |
+| 13 | 78860687 |
+| 14 | 719606005 |
+| 15 | 7035514642 |
+
+[OEIS A001428](https://oeis.org/A001428)
 
 ## Subclasses
 [Groups](groups.md) 

@@ -44,18 +44,17 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &2\\
-  f(4)= &5\\
-  f(5)= &13\\
-  f(6)= &42\\
-  f(7)= &171\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 5 |
+| 5 | 13 |
+| 6 | 42 |
+| 7 | 171 |
 
 ## Subclasses
 [Generalized effect algebras](generalized_effect_algebras.md)

@@ -68,11 +68,29 @@ The dual operation $x\cdot y=-(-y+-x)$ is the fusion of a commutative integral i
 
 ## Finite members
 
-^$n$       | 1 | 2 | 3 | 4 | 5 | 6 |  7 |  8 |  9 |  10 |  11 |  12 |   13 |   14 |    15 |    16 |     17 |
-^# of algs | 1 | 1 | 1 | 3 | 3 | 8 | 12 | 35 | 61 | 167 |     |     |      |      |       |       |        |
-^# of si's | 0 | 1 | 1 | 2 | 3 | 7 | 12 | 31 | 59 | 161 | 329 | 944 | 2067 | 6148 | 14558 | 44483 | 116372 |
+Number of members with $n$ elements, counted up to isomorphism.
 
-see http://oeis.org/A030453
+| $n$ | members | subdirectly irreducible |
+|--:|--:|--:|
+| 1 | 1 | 0 |
+| 2 | 1 | 1 |
+| 3 | 1 | 1 |
+| 4 | 3 | 2 |
+| 5 | 3 | 3 |
+| 6 | 8 | 7 |
+| 7 | 12 | 12 |
+| 8 | 35 | 31 |
+| 9 | 61 | 59 |
+| 10 | 167 | 161 |
+| 11 |  | 329 |
+| 12 |  | 944 |
+| 13 |  | 2067 |
+| 14 |  | 6148 |
+| 15 |  | 14558 |
+| 16 |  | 44483 |
+| 17 |  | 116372 |
+
+see [OEIS A030453](https://oeis.org/A030453)
 
 ## Subclasses
 TBD 

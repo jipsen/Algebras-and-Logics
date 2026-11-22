@@ -54,14 +54,16 @@ Feel free to add or delete properties from this list. The list below may contain
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &2\\
-  f(3)= &12\\
-  f(4)= &129\\
-  f(5)= &1852\\
-  f(6)= &33391\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 12 |
+| 4 | 129 |
+| 5 | 1852 |
+| 6 | 33391 |
 
 Model search done by Mace4 https://www.cs.unm.edu/~mccune/mace4/
 

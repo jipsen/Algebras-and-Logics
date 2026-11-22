@@ -52,15 +52,16 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &3\\
-f(4)= &20\\
-f(5)= &149\\
-f(6)= &1488\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 3 |
+| 4 | 20 |
+| 5 | 149 |
+| 6 | 1488 |
 
 ## Subclasses
 [Action algebras](action_algebras.md) 

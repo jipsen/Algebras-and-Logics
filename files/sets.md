@@ -37,9 +37,11 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |  yes |
 ## Finite members
 
-$\begin{array}{lr}
-  f(n)= &1\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| n | 1 |
 
 ## Subclasses
   [One-element structures](one-element_structures.md) 

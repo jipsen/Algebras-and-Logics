@@ -58,10 +58,35 @@ Fields are exactly the commutative rings with identity that are simple, i.e., ha
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 
 ## Finite members
-|$n$       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-|---       |---|---|---|---|---|---|---|---|---|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-|# of algs | 0 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 |  0 |  1 |  0 |  1 |  0 |  0 |  1 |  1 |  0 |  1 | 0  |  0 |  0 |  1 |  0 |  1 |
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 0 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 1 |
+| 5 | 1 |
+| 6 | 0 |
+| 7 | 1 |
+| 8 | 1 |
+| 9 | 1 |
+| 10 | 0 |
+| 11 | 1 |
+| 12 | 0 |
+| 13 | 1 |
+| 14 | 0 |
+| 15 | 0 |
+| 16 | 1 |
+| 17 | 1 |
+| 18 | 0 |
+| 19 | 1 |
+| 20 | 0 |
+| 21 | 0 |
+| 22 | 0 |
+| 23 | 1 |
+| 24 | 0 |
+| 25 | 1 |
 
 For every prime $p$ and positive integer $m$ there exists, up to isomorphism, exactly one field of cardinality $p^m$, called the Galois field $GF(p^m)$.
 

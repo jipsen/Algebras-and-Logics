@@ -58,28 +58,28 @@ Feel free to add or delete properties from this list. The list below may contain
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &2\\
-  f(3)= &3\\
-  f(4)= &5\\
-  f(5)= &7\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &11\\
-  f(7)= &15\\
-  f(8)= &22\\
-  f(9)= &30\\
-  f(10)= &42\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 5 |
+| 5 | 7 |
+| 6 | 11 |
+| 7 | 15 |
+| 8 | 22 |
+| 9 | 30 |
+| 10 | 42 |
 
 The number of (labelled) equivalance relations on an $n$ element set given by a sum of Stirlings formula (of the second kind). 
 
-see also http://www.research.att.com/projects/OEIS?Anum=A000110
+see also [OEIS A000110](https://oeis.org/A000110)
 
 The number of (nonisomorphic) equivalence relations is the number of partition patterns (= number of integer partitions).
 
-see also http://www.research.att.com/projects/OEIS?Anum=A000041
+see also [OEIS A000041](https://oeis.org/A000041)
 
 ## Subclasses
 

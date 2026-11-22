@@ -54,17 +54,17 @@ Example 1: $\langle \mathbb{N},+\rangle$, the natural numbers, with additition.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |no |
 ## Finite members
 
-$\begin{array}{lr}
-[Search for finite commutative semigroups](search_for_finite_commutative_semigroups.md)
+Number of members with $n$ elements, counted up to isomorphism.
 
-f(1)= &1\\
-f(2)= &3\\
-f(3)= &12\\
-f(4)= &58\\
-f(5)= &325\\
-f(6)= &2143\\
-f(7)= &17291\\
-\end{array}$
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 12 |
+| 4 | 58 |
+| 5 | 325 |
+| 6 | 2143 |
+| 7 | 17291 |
 
 ## Subclasses
 [Semilattices](semilattices.md) 

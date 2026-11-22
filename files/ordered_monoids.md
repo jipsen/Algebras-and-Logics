@@ -46,19 +46,17 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
-$f(n)=$ number of members of size $n$.
+Number of members with $n$ elements, counted up to isomorphism.
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &2\\
-f(3)= &8\\
-f(4)= &34\\
-f(5)= &184\\
-f(6)= &1218\\
-f(7)= &9742\\
-f(8)= &\\
-f(9)= &\\
-\end{array}$
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 8 |
+| 4 | 34 |
+| 5 | 184 |
+| 6 | 1218 |
+| 7 | 9742 |
 
 ## Subclasses
 [Commutative ordered monoids](commutative_ordered_monoids.md)

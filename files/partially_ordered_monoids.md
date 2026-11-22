@@ -50,14 +50,14 @@ Every monoid with the discrete partial order is a po-monoid.
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &4\\
-  f(3)= &37\\
-  f(4)= &549\\
-  f(5)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 4 |
+| 3 | 37 |
+| 4 | 549 |
 
 ## Subclasses
 [Commutative partially ordered monoids](commutative_partially_ordered_monoids.md)

@@ -68,19 +68,20 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &2\\
-f(4)= &5\\
-f(5)= &10\\
-f(6)= &23\\
-f(7)= &49\\
-f(8)= &111\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 5 |
+| 5 | 10 |
+| 6 | 23 |
+| 7 | 49 |
+| 8 | 111 |
 
 The number of subdirectly irreducible BL-algebras of size $n$ is $2^{n-2}$.
-
 
 ## Subclasses
 [MV-algebras](mv-algebras.md) 

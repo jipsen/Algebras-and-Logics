@@ -47,19 +47,21 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &6\\
-f(6)= &109\\
-f(7)= &23746\\
-f(8)= &106228849\\
-f(9)= &9365022303540\\
-f(10)= &20890436195945769617\\
-f(11)= &1478157455158044452849321016\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 6 |
+| 6 | 109 |
+| 7 | 23746 |
+| 8 | 106228849 |
+| 9 | 9365022303540 |
+| 10 | 20890436195945769617 |
+| 11 | 1478157455158044452849321016 |
 
 ## Subclasses
 [Groups](groups.md) 

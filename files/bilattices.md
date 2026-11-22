@@ -50,19 +50,17 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &0\\
-f(3)= &0\\
-f(4)= &1\\
-f(5)= &3\\
-f(6)= &32\\
-f(7)= &284\\
-f(8)= &\\
-f(9)= &\\
-f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 0 |
+| 3 | 0 |
+| 4 | 1 |
+| 5 | 3 |
+| 6 | 32 |
+| 7 | 284 |
 
 ## Subclasses
 [Interlaced bilattices](interlaced_bilattices.md) 

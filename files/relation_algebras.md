@@ -57,17 +57,18 @@ Example 2: $\langle \mathcal P(G), \cup, \emptyset, \cap, G, -, \circ, ^\smile, 
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &0\\
-f(4)= &3\\
-f(5)= &0\\
-f(6)= &0\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 0 |
+| 4 | 3 |
+| 5 | 0 |
+| 6 | 0 |
 
 [Small relation algebras](https://www1.chapman.edu/~jipsen/gap/ramaddux.html)
-
 
 ## Subclasses
 [n-dimensional relation algebras](n-dimensional_relation_algebras.md) 

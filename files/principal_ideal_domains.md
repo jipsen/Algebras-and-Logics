@@ -42,14 +42,16 @@ See Oscar Campoli's "A Principal Ideal Domain That Is Not a Euclidean Domain" in
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &1\\
-f(5)= &1\\
-f(6)= &0\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 1 |
+| 5 | 1 |
+| 6 | 0 |
 
 ## Subclasses
 [Euclidean domains](euclidean_domains.md) 

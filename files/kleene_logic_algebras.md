@@ -46,18 +46,20 @@ The algebra in Example 1 generates the variety of Kleene logic algebras
 |[Residual size](residual_size.md)  | 3 |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &1\\
-f(6)= &3\\
-f(7)= &2\\
-f(8)= &6\\
-f(9)= &4\\
-f(10)= &10\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 1 |
+| 6 | 3 |
+| 7 | 2 |
+| 8 | 6 |
+| 9 | 4 |
+| 10 | 10 |
 
 ## Subclasses
 [Boolean algebras](boolean_algebras.md) 

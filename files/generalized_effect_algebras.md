@@ -57,19 +57,21 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &2\\
-  f(4)= &5\\
-  f(5)= &12\\
-  f(6)= &35\\
-  f(7)= &119\\
-  f(8)= &496\\
-  f(9)= &2699\\
-  f(10)= &21888\\
-  f(11)= &292496\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 5 |
+| 5 | 12 |
+| 6 | 35 |
+| 7 | 119 |
+| 8 | 496 |
+| 9 | 2699 |
+| 10 | 21888 |
+| 11 | 292496 |
 
 ## Subclasses
 [Effect algebras](effect_algebras.md)

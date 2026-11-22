@@ -48,14 +48,11 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &\\
-f(3)= &\\
-f(4)= &\\
-f(5)= &\\
-f(6)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
 
 ## Subclasses
 [Division rings](division_rings.md) 

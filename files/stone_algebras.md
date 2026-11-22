@@ -36,18 +36,20 @@ Example 1:
 |[Residual size](residual_size.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &2\\
-f(6)= &4\\
-f(7)= &5\\
-f(8)= &10\\
-f(9)= &16\\
-f(10)= &28\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 2 |
+| 6 | 4 |
+| 7 | 5 |
+| 8 | 10 |
+| 9 | 16 |
+| 10 | 28 |
 
 ## Subclasses
 [Double Stone algebras](double_stone_algebras.md) 

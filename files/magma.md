@@ -43,16 +43,18 @@ Example 1: $\langle\mathbb N,{}^\wedge\rangle$ is the exponentiation magma of th
 
 ## Finite members
 
-|$n$ | # of algebras|
-|---|---|
-|1  |  1|
-|2  |  10|
-|3  |  3330|
-|4  |  178981952|
-|5  |  2483527537094825|
-|6  |  14325590003318891522275680|
-|7  |  50976900301814584087291487087214170039|
-|8  |  155682086691137947272042502251643461917498835481022016|
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 10 |
+| 3 | 3330 |
+| 4 | 178981952 |
+| 5 | 2483527537094825 |
+| 6 | 14325590003318891522275680 |
+| 7 | 50976900301814584087291487087214170039 |
+| 8 | 155682086691137947272042502251643461917498835481022016 |
 
 Michael A. Harrison, ***The number of isomorphism types of finite algebras***,
 Proc. Amer. Math. Soc., **17** 1966, 731--737 

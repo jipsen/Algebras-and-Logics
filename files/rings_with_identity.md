@@ -53,17 +53,18 @@ $0$ is a zero for $\cdot$: $0\cdot x=0$ and $x\cdot 0=0$.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &4\\
-f(5)= &1\\
-f(6)= &1\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 4 |
+| 5 | 1 |
+| 6 | 1 |
 
 [Finite rings with identity in the Encyclopedia of Integer Sequences](finite_rings_with_identity_in_the_encyclopedia_of_integer_sequences.md)
-
 
 ## Subclasses
 [Commutative rings with identity](commutative_rings_with_identity.md) 

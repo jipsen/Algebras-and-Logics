@@ -54,16 +54,18 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &0\\
-f(4)= &5\\
-f(5)= &0\\
-f(6)= &0\\
-f(7)= &0\\
-f(8)= &\ge 97\text{ out of  }104\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 0 |
+| 4 | 5 |
+| 5 | 0 |
+| 6 | 0 |
+| 7 | 0 |
+| 8 | ≥ 97 (out of 104) |
 
 Some members of BSlat
 

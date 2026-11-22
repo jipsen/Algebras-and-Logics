@@ -61,21 +61,11 @@ The variety of Hilbert algebras is not generated as a quasivariety by any of its
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &\\
-  f(3)= &\\
-  f(4)= &\\
-  f(5)= &\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
 
 ## Subclasses
 

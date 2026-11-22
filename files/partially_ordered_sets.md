@@ -65,26 +65,28 @@ inclusion.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &2\\
-f(3)= &5\\
-f(4)= &16\\
-f(5)= &63\\
-f(6)= &318\\
-f(7)= &2045\\
-f(8)= &16999\\
-f(9)= &183231\\
-f(10)= &2567284\\
-f(11)= &46749427\\
-f(12)= &1104891746\\
-f(13)= &33823827452\\
-f(14)= &1338193159771\\
-f(15)= &68275077901156\\
-f(16)= &4483130665195087
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-http://oeis.org/A000112
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 5 |
+| 4 | 16 |
+| 5 | 63 |
+| 6 | 318 |
+| 7 | 2045 |
+| 8 | 16999 |
+| 9 | 183231 |
+| 10 | 2567284 |
+| 11 | 46749427 |
+| 12 | 1104891746 |
+| 13 | 33823827452 |
+| 14 | 1338193159771 |
+| 15 | 68275077901156 |
+| 16 | 4483130665195087 |
+
+[OEIS A000112](https://oeis.org/A000112)
 
 ## Subclasses
 [Connected partial orders](connected_partial_orders.md) 

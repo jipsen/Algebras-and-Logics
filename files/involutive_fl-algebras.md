@@ -54,21 +54,18 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &2\\
-  f(4)= &9\\
-  f(5)= &21\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &101\\
-  f(7)= &284\\
-  f(8)= &1464\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 9 |
+| 5 | 21 |
+| 6 | 101 |
+| 7 | 284 |
+| 8 | 1464 |
 
 ## Subclasses
 [Cyclic involutive FL-algebras](cyclic_involutive_fl-algebras.md) subvariety

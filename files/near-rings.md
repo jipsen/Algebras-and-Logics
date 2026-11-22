@@ -54,14 +54,11 @@ $0$ is a zero for $\cdot$: $0\cdot x=0$ and $x\cdot 0=0$.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &\\
-f(3)= &\\
-f(4)= &\\
-f(5)= &\\
-f(6)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
 
 ## Subclasses
 [Rings](rings.md) 

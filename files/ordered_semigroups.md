@@ -45,18 +45,20 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
-$\begin{array}{rr}
-f(1)=&1\\
-f(2)=&6\\
-f(3)=&44\\
-f(4)=&386\\
-f(5)=&3852\\
-f(6)=&42640\\
-f(7)=&516791\\
-f(8)=&6817378\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-http://oeis.org/A084965
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 6 |
+| 3 | 44 |
+| 4 | 386 |
+| 5 | 3852 |
+| 6 | 42640 |
+| 7 | 516791 |
+| 8 | 6817378 |
+
+[OEIS A084965](https://oeis.org/A084965)
 
 ## Subclasses
 [Commutative ordered semigroups](commutative_ordered_semigroups.md)

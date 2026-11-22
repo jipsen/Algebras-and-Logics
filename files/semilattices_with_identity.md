@@ -45,14 +45,16 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |yes |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\quad\\
-f(2)= &1\quad\\
-f(3)= &1\quad\\
-f(4)= &2\quad\\
-f(5)= &5\quad\\
-f(6)= &15\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 5 |
+| 6 | 15 |
 
 ## Subclasses
 [Semilattices with identity and zero](semilattices_with_identity_and_zero.md) 

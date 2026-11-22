@@ -53,18 +53,20 @@ The algebra in Example 1 generates the variety of De Morgan algebras, see e.g. h
 |[Residual size](residual_size.md)  | 4 |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &3\\
-f(5)= &1\\
-f(6)= &4\\
-f(7)= &2\\
-f(8)= &9\\
-f(9)= &5\\
-f(10)= &14\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 3 |
+| 5 | 1 |
+| 6 | 4 |
+| 7 | 2 |
+| 8 | 9 |
+| 9 | 5 |
+| 10 | 14 |
 
 ## Subclasses
 [Kleene logic algebras](kleene_logic_algebras.md) 

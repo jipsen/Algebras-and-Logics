@@ -66,19 +66,21 @@ If $x$ is a regular element of a semigroup (say $x=xyx$), then $x$ has an invers
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &3\\
-f(3)= &9\\
-f(4)= &42\\
-f(5)= &206\\
-f(6)= &1352\\
-f(7)= &10168\\
-f(8)= &91073\\
-f(9)= &925044
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism and anti-isomorphism.
 
-(the opposite of a semigroup $S$ is identified with $S$ in the table above, see https://oeis.org/A001427)
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 9 |
+| 4 | 42 |
+| 5 | 206 |
+| 6 | 1352 |
+| 7 | 10168 |
+| 8 | 91073 |
+| 9 | 925044 |
+
+(the opposite of a semigroup $S$ is identified with $S$ in the table above, see [OEIS A001427](https://oeis.org/A001427))
 
 ## Subclasses
 [Bands](bands.md) 

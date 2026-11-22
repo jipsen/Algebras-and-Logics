@@ -52,18 +52,20 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &1\\
-f(6)= &2\\
-f(7)= &1\\
-f(8)= &3\\
-f(9)= &1\\
-f(10)= &2\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 1 |
+| 6 | 2 |
+| 7 | 1 |
+| 8 | 3 |
+| 9 | 1 |
+| 10 | 2 |
 
 ## Subclasses
 [Boolean algebras](boolean_algebras.md) 
