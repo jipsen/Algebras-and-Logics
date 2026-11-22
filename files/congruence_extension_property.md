@@ -20,11 +20,11 @@ $\mathbf{A}\in\mathcal{K}$ any (principal) $\mathcal{K}$-congruence
 of any subalgebra of $\mathbf{A}$ can be extended to $\mathbf{A}$.
 
 W. J. Blok and D. Pigozzi, ***On the congruence extension property***, Algebra Universalis, **38**, 1997, 
-391--394 [http://www.ams.org/mathscinet-getitem?mr=99m:08007|MRreview](http://www.ams.org/mathscinet-getitem?mr=99m:08007|mrreviews.md) shows that for a quasivarieties $\mathcal{K}$, PRCEP implies RCEP.
+391--394 [MRreview](http://www.ams.org/mathscinet-getitem?mr=99m:08007) shows that for a quasivarieties $\mathcal{K}$, PRCEP implies RCEP.
 
 ### = Properties that imply the (relative) congruence extension property =
 
-[Equationally def. pr. cong.|Equationally definable principal (relative) congruences](equationally_def._pr._cong.|equationally_definable_principal_(relative)_congruences.md)
+[Equationally definable principal (relative) congruences](equationally_def._pr._cong.md)
 
 ### = Properties implied by the (relative) congruence extension property =
 

@@ -46,7 +46,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)  | |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |yes |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |yes |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |yes |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |

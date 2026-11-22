@@ -3,7 +3,7 @@
 Abbreviation: **FRng**
 ## Definition
 A ***function ring*** (or $f$***-ring***) is a 
-[lattice-ordered rings|lattice-ordered ring](lattice-ordered_rings|lattice-ordered_rings.md) $\mathbf{F}=\langle F,\vee,\wedge,+,-,0,\cdot\rangle$ such that 
+[lattice-ordered ring](lattice-ordered_rings.md) $\mathbf{F}=\langle F,\vee,\wedge,+,-,0,\cdot\rangle$ such that 
 
 
 $x\wedge y=0$, $z\ge 0\ \Longrightarrow\ x\cdot z\wedge y=0$, $z\cdot x\wedge y=0$
@@ -37,7 +37,7 @@ This means $f$-rings are subdirect products of linearly ordered $\ell$-rings, i.
 |[Congruence regular](congruence_regular.md)  |yes, see [groups](groups.md) |
 |[Congruence uniform](congruence_uniform.md)  |yes, see [groups](groups.md) |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |

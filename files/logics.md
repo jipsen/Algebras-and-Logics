@@ -4,7 +4,7 @@ This page is intended to contain an alphabetical list of propositional and predi
 
 This list is still **very much under construction**, so feel free to add further logics, and to add information about individual entries.
 
-Many of the propositional logics on this page have algebraic semantics given by a class of structures on the [http://math.chapman.edu/~jipsen/structures/doku.php/|main page](http://math.chapman.edu/~jipsen/structures/doku.php/|main_pages.md). Algebraic logic is the area that investigates the connections between logics and their algebraic counterparts.
+Many of the propositional logics on this page have algebraic semantics given by a class of structures on the [main page](http://math.chapman.edu/~jipsen/structures/doku.php/). Algebraic logic is the area that investigates the connections between logics and their algebraic counterparts.
 
   -[Arrow logic](arrow_logics.md)
   -[Basic logic](basic_logics.md)
@@ -13,7 +13,7 @@ Many of the propositional logics on this page have algebraic semantics given by 
   -[Classical full Lambek calculus](classical_full_lambek_calculus.md)
   -[Classical propositional logic](classical_propositional_logics.md)
   -[Classical predicate logic](classical_predicate_logics.md)
-  -[Classical predicate logic|First order logic](classical_predicate_logic|first_order_logics.md)
+  -First order logic
   -[Full Lambek calculus](full_lambek_calculus.md)
   -[Full Lambek calculus with contraction](full_lambek_calculus_with_contractions.md)
   -[Full Lambek calculus with exchange](full_lambek_calculus_with_exchanges.md)
@@ -28,7 +28,7 @@ Many of the propositional logics on this page have algebraic semantics given by 
   -[Modal logic S4](modal_logic_s4s.md)
   -[Modal logic S5](modal_logic_s5s.md)
   -[Multiplicative additive linear logic](multiplicative_additive_linear_logics.md)
-  -[Lukasiewicz logic|Multivalued logic](lukasiewicz_logic|multivalued_logics.md)
+  -Multivalued logic
   -[Orthologic](orthologics.md)
   -[Quantum computational logic](quantum_computational_logics.md)
   -[Quantum logic](quantum_logics.md)

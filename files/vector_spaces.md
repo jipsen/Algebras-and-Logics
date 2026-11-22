@@ -2,7 +2,7 @@
 
 Abbreviation: **FVec**
 ## Definition
-A ***vector space*** over a [fields|field](fields|fields.md) $\mathbf{F}$ is a structure $\mathbf{V}=\langle V,+,-,0,f_a\ (a\in F)\rangle$ such that
+A ***vector space*** over a [field](fields.md) $\mathbf{F}$ is a structure $\mathbf{V}=\langle V,+,-,0,f_a\ (a\in F)\rangle$ such that
 
 
 $\langle V,+,-,0\rangle$ is an [abelian groups](abelian_groups.md)
@@ -52,7 +52,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |

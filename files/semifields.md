@@ -2,7 +2,7 @@
 
 Abbreviation: **Sfld**
 ## Definition
-A ***semifield*** is a [semirings with identity|semiring with identity](semirings_with_identity|semiring_with_identitys.md) $\mathbf{S}=\langle S,+,\cdot, 1\rangle$ such that
+A ***semifield*** is a [semiring with identity](semirings_with_identity.md) $\mathbf{S}=\langle S,+,\cdot, 1\rangle$ such that
 
 
 $\langle S^*,\cdot,1\rangle$ is a group, where $S^*=S-\{0\}$ if $S$ has an absorbtive $0$, and $S=S^*$ otherwise.
@@ -39,7 +39,7 @@ The only finite semifield that is not a field is the 2-element Boolean semifield
 |[Congruence uniform](congruence_uniform.md)  | |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -58,7 +58,7 @@ f(6)= &0\\
 [Fields](fields.md) 
 
 ## Superclasses
-[Semirings with identity](semirings_with_identitys.md) 
+[Semirings with identity](semirings_with_identity.md) 
 
 
 ## References

@@ -54,7 +54,6 @@ Feel free to add or delete properties from this list. The list below may contain
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 
 
 

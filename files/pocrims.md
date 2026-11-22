@@ -49,12 +49,12 @@ Feel free to add or delete properties from this list. The list below may contain
 |[Residual size](residual_size.md)                    | |
 |[Congruence distributive](congruence_distributive.md)          | |
 |[Congruence modular](congruence_modular.md)               | |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        | |
+|[Congruence n-permutable](congruence_n-permutable.md)        | |
 |[Congruence regular](congruence_regular.md)               | |
 |[Congruence uniform](congruence_uniform.md)               | |
 |[Congruence extension property](congruence_extension_property.md)    | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      | |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -94,7 +94,7 @@ $\begin{array}{lr}
 
 
 D. Higgs, ***Dually residuated commutative monoids with identity element as least element do not form an equational class***, Math. Japon., 
-**29**, 1984, no. 1, 69--75 [MRreview](mrreviews.md) 
+**29**, 1984, no. 1, 69--75 
 
 
 

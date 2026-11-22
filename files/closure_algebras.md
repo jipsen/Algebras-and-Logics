@@ -46,7 +46,7 @@ Example 1: $\langle P(X),\cup,\emptyset,\cap,X,-,cl\rangle$, where $X$ is any to
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |yes |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |yes |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |yes |
 |[Discriminator variety](discriminator_variety.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |yes |

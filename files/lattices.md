@@ -99,7 +99,7 @@ Proc. Imp. Acad. Tokyo,
 |[Congruence uniform](congruence_uniform.md)  |no |
 |[Congruence extension property](congruence_extension_property.md)  |no |
 |[Definable principal congruences](definable_principal_congruences.md)  |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  |yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |yes [(Bjarni J\'onsson,***Universal relational systems***,
 Math. Scand., **4** 1956, 193--208)] |
@@ -132,7 +132,7 @@ Algebra Universalis,
 Algebra Universalis, **74**, 2015, 253--264
 
 
-[http://math.chapman.edu/~jipsen/posets/lattices77.html|Diagrams of lattices of size 2 to 7](http://math.chapman.edu/~jipsen/posets/lattices77.html|diagrams_of_lattices_of_size_2_to_7s.md)
+[Diagrams of lattices of size 2 to 7](http://math.chapman.edu/~jipsen/posets/lattices77.html)
 
 /*[Finite lattices](finite_lattices.md) of size $\le 7$
 

@@ -44,7 +44,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)  |no |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -69,13 +69,12 @@ f(6)= &1488\\
 
 
 ## Superclasses
-[Idempotent semirings with identity and zero](idempotent_semirings_with_identity_and_zeros.md) 
+[Idempotent semirings with identity and zero](idempotent_semirings_with_identity_and_zero.md) 
 
 ## References
 
 
 L. J. Stockmeyer, A. R. Meyer, ***Word problems requiring exponential time: preliminary report***,
 Fifth Annual ACM Symposium on Theory of Computing (Austin, Tex., 1973),
-Assoc. Comput. Mach., New York, 1973, 1--9 
-[MRreview](mrreviews.md)[ZMATH](zmaths.md)
+Assoc. Comput. Mach., New York, 1973, 1--9[ZMATH](zmaths.md)
 )]

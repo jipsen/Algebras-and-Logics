@@ -50,7 +50,7 @@ zero. The finitely generated free commutative monoids are direct products of thi
 |[Congruence uniform](congruence_uniform.md)  |no |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -61,7 +61,7 @@ $\begin{array}{lr}f(1)= &1\\f(2)= &2\\f(3)= &5\\f(4)= &19\\f(5)= &78\\f(6)= &421
 ## Subclasses
 [Abelian groups](abelian_groups.md) 
 
-[Semilattices with identity](semilattices_with_identitys.md) 
+[Semilattices with identity](semilattices_with_identity.md) 
 
 ## Superclasses
 [Commutative semigroups](commutative_semigroups.md) 

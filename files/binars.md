@@ -36,7 +36,7 @@ Example 1: $\langle\mathbb N,{}^\wedge\rangle$ is the exponentiation binar of th
 |[Congruence uniform](congruence_uniform.md)  |  no |
 |[Congruence extension property](congruence_extension_property.md)  |  no |
 |[Definable principal congruences](definable_principal_congruences.md)  |  no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |  no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |  no |
 |[Amalgamation property](amalgamation_property.md)  |  yes |
 |[Strong amalgamation property](strong_amalgamation_property.md)  |  yes |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |  yes |
@@ -54,7 +54,7 @@ Example 1: $\langle\mathbb N,{}^\wedge\rangle$ is the exponentiation binar of th
 |8  |  155682086691137947272042502251643461917498835481022016|
 
 Michael A. Harrison, ***The number of isomorphism types of finite algebras***,
-Proc. Amer. Math. Soc., **17** 1966, 731--737 [http://www.ams.org/mathscinet-getitem?mr=34 :118|MRreview](http://www.ams.org/mathscinet-getitem?mr=34_:118|mrreviews.md)
+Proc. Amer. Math. Soc., **17** 1966, 731--737 [MRreview](http://www.ams.org/mathscinet-getitem?mr=34:118)
 
 ## Subclasses
 [Commutative groupoids](commutative_groupoids.md) 

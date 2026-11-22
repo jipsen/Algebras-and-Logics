@@ -2,7 +2,7 @@
 
 Abbreviation: **RMod**
 ## Definition
-A ***module over a [rings with identity](rings_with_identitys.md)*** $\mathbf{R}$ is a structure $\mathbf{A}=\langle A,+,-,0,f_r\ (r\in R)\rangle$ such that
+A ***module over a [rings with identity](rings_with_identity.md)*** $\mathbf{R}$ is a structure $\mathbf{A}=\langle A,+,-,0,f_r\ (r\in R)\rangle$ such that
 
 
 $\langle A,+,-,0\rangle$ is an [abelian groups](abelian_groups.md)
@@ -52,7 +52,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)  |yes |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  |no |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |

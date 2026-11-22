@@ -7,7 +7,7 @@ Abbreviation: **sqMV**
 A $\sqrt{'}$***quasi-MV-algebra***[GLP2007] is a
 structure $\mathbf{A}=\langle A, \oplus, \sqrt{'}, ', 0, 1, k\rangle$ such that $\sqrt{'}$ is a unary operation,
 
-$\mathbf{A}=\langle A, \oplus, ', 0, 1\rangle$ is a [quasi-MV-algebra](quasi-mv-algebras.md),
+$\mathbf{A}=\langle A, \oplus, ', 0, 1\rangle$ is a [quasi-MV-algebra](quasi-mv-algebra.md),
 
 $x'=\sqrt{'}\sqrt{'}x$,
 
@@ -54,7 +54,7 @@ Only the trivial $\sqrt{'}$qMV-algebra is an [MV-algebra](mv-algebras.md).
 |[Congruence uniform](congruence_uniform.md)  |no |
 |[Congruence extension property](congruence_extension_property.md)  |yes |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  |no |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  |no |
 |[Amalgamation property](amalgamation_property.md)  |yes  |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |

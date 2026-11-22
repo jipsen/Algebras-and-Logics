@@ -30,21 +30,16 @@ Example 1:
 ## Finite members
 
 ## Subclasses
-  [...](...s.md) subvariety
 
-  [...](...s.md) expansion
 
 
 ## Superclasses
-  [...](...s.md) supervariety
 
-  [...](...s.md) subreduct
 
 
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 
 
 

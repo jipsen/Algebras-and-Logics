@@ -34,12 +34,12 @@ Example 1:
 |[Residual size](residual_size.md)                    |unbounded  |
 |[Congruence distributive](congruence_distributive.md)          |yes  |
 |[Congruence modular](congruence_modular.md)               |yes  |
-|[Congruence $n$-permutable](congruence_$n$-permutable.md)        |yes, $n=2$  |
+|[Congruence n-permutable](congruence_n-permutable.md)        |yes, $n=2$  |
 |[Congruence regular](congruence_regular.md)               |yes  |
 |[Congruence uniform](congruence_uniform.md)               |no  |
 |[Congruence extension property](congruence_extension_property.md)    |yes  |
 |[Definable principal congruences](definable_principal_congruences.md)  |no  |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)      |no  |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)      |no  |
 |[Amalgamation property](amalgamation_property.md)            | |
 |[Strong amalgamation property](strong_amalgamation_property.md)     | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
@@ -63,21 +63,16 @@ $\begin{array}{lr}
 
 
 ## Subclasses
-  [...](...s.md) subvariety
 
-  [...](...s.md) expansion
 
 
 ## Superclasses
-  [...](...s.md) supervariety
 
-  [...](...s.md) subreduct
 
 
 ## References
 
 
-F. Lastname, ***Title***, Journal, **1**, 23--45 [MRreview](mrreviews.md) 
 
 
 

@@ -42,7 +42,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)  | |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -61,7 +61,7 @@ f(6)= &\\
 [Division rings](division_rings.md) 
 
 ## Superclasses
-[Left neofields](left_neofields.md) 
+[Left neofields](left_neofield.md) 
 
 ## References
 

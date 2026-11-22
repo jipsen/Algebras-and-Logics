@@ -3,7 +3,7 @@
 Abbreviation: **ISRng$_1$**
 
 ## Definition
-An ***idempotent semiring with identity*** is a [semirings with identity](semirings_with_identitys.md) $\mathbf{S}=\langle S,\vee,\cdot,1
+An ***idempotent semiring with identity*** is a [semirings with identity](semirings_with_identity.md) $\mathbf{S}=\langle S,\vee,\cdot,1
 \rangle$ such that
 
 $\vee$ is idempotent:  $x\vee x=x$
@@ -37,7 +37,7 @@ Example 1:
 |[Congruence uniform](congruence_uniform.md)  | |
 |[Congruence extension property](congruence_extension_property.md)  | |
 |[Definable principal congruences](definable_principal_congruences.md)  | |
-|[Equationally def. pr. cong.](equationally_def._pr._cong..md)  | |
+|[Equationally def. pr. cong.](equationally_def._pr._cong.md)  | |
 |[Amalgamation property](amalgamation_property.md)  | |
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
@@ -53,12 +53,12 @@ f(6)= &\\
 \end{array}$
 
 ## Subclasses
-[Idempotent semirings with identity and zero](idempotent_semirings_with_identity_and_zeros.md) 
+[Idempotent semirings with identity and zero](idempotent_semirings_with_identity_and_zero.md) 
 
 ## Superclasses
 [Idempotent semirings](idempotent_semirings.md) 
 
-[Semirings with identity](semirings_with_identitys.md) 
+[Semirings with identity](semirings_with_identity.md) 
 
 
 ## References
