@@ -59,7 +59,7 @@ The lattice reducts of (abelian) $\ell$-groups are [distributive lattices](distr
 
 
 ## Finite members
-None
+Only one-element algebras
 
 
 ## Subclasses
