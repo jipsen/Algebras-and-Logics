@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use CAL-db, please cite it as below. To cite a single page, see the README."
+title: "CAL-db: Categories, Algebras and Logics"
+abstract: "A collaborative database of classes of algebraic structures, related logics and categories, listing definitions, examples, properties (e.g. amalgamation, congruence properties, decidability), numbers of finite members, subclasses, superclasses and references."
+type: dataset
+authors:
+  - family-names: Jipsen
+    given-names: Peter
+  - name: "CAL-db contributors"
+repository-code: "https://github.com/jipsen/CAL-db"
+url: "https://github.com/jipsen/CAL-db"
+license: Apache-2.0
+date-released: "2026-11-22"
+keywords:
+  - universal algebra
+  - varieties of algebras
+  - category theory
+  - algebraic logic
+  - residuated lattices
+  - substructural logics
