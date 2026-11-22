@@ -50,16 +50,17 @@ All finite (left or right) cancellative monoids are reducts of [groups](groups.m
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &1\\
-f(6)= &2\\
-f(7)= &1\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 1 |
+| 6 | 2 |
+| 7 | 1 |
 
 ## Subclasses
 [Groups](groups.md) 

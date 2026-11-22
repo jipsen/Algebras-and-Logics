@@ -52,13 +52,14 @@ Feel free to add or delete properties from this list. The list below may contain
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &6\\
-  f(3)= &44\\
-  f(4)= &479\\
-  f(5)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 6 |
+| 3 | 44 |
+| 4 | 479 |
 
 ## Subclasses
 [Distributive lattice-ordered monoids](distributive_lattice-ordered_monoids.md)

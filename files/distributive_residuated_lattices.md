@@ -46,16 +46,18 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &3\\
-f(4)= &20\\
-f(5)= &115\\
-f(6)= &899\\
-f(7)= &7782\\
-f(8)= &80468\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 3 |
+| 4 | 20 |
+| 5 | 115 |
+| 6 | 899 |
+| 7 | 7782 |
+| 8 | 80468 |
 
 ## Subclasses
 [Commutative distributive residuated lattices](commutative_distributive_residuated_lattices.md) 

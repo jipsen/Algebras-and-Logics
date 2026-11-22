@@ -38,10 +38,11 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
 
 ## Subclasses
 [Algebraic semilattices](algebraic_semilattices.md) 

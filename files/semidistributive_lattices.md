@@ -48,22 +48,24 @@ is split into two elements $d,d'$ using Alan Day's doubling construction.
 |[Residual size](residual_size.md)  |unbounded |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &4\\
-f(6)= &9\\
-f(7)= &22\\
-f(8)= &60\\
-f(9)= &174\\
-f(10)= &534\\
-f(11)= &1720\\
-f(12)= &5767\\
-f(13)= &20013\\
-f(14)= &71546\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 4 |
+| 6 | 9 |
+| 7 | 22 |
+| 8 | 60 |
+| 9 | 174 |
+| 10 | 534 |
+| 11 | 1720 |
+| 12 | 5767 |
+| 13 | 20013 |
+| 14 | 71546 |
 
 ## Subclasses
 [Neardistributive lattices](neardistributive_lattices.md) 

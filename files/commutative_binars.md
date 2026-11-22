@@ -42,19 +42,22 @@ Example 1: $\langle\mathbb N,\cdot\rangle$ is the distance binar of the natural 
 
 ## Finite members
 
-^n  ^  # of algebras^
-|1  |  1|
-|2  |  4|
-|3  |  129|
-|4  |  43968|
-|5  |  254429900|
-|6  |  30468670170912|
-|7  |  91267244789189735259|
-|8  |  8048575431238519331999571800|
-|9  |  24051927835861852500932966021650993560|
-|10  |  2755731922430783367615449408031031255131879354330|
+Number of members with $n$ elements, counted up to isomorphism.
 
-see [finite commutative binars](finite_commutative_binars.md) and http://www.research.att.com/~njas/sequences/A001425
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 4 |
+| 3 | 129 |
+| 4 | 43968 |
+| 5 | 254429900 |
+| 6 | 30468670170912 |
+| 7 | 91267244789189735259 |
+| 8 | 8048575431238519331999571800 |
+| 9 | 24051927835861852500932966021650993560 |
+| 10 | 2755731922430783367615449408031031255131879354330 |
+
+see [finite commutative binars](finite_commutative_binars.md) and [OEIS A001425](https://oeis.org/A001425)
 
 ## Subclasses
 [Commutative idempotent binars](commutative_idempotent_binars.md) 

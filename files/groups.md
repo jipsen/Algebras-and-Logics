@@ -63,26 +63,28 @@ identity matrix.
 |[Residual size](residual_size.md)  |unbounded |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &1\\
-f(6)= &2\\
-f(7)= &1\\
-f(8)= &5\\
-f(9)= &2\\
-f(10)= &2\\
-f(11)= &1\\
-f(12)= &5\\
-f(13)= &1\\
-f(14)= &2\\
-f(15)= &1\\
-f(16)= &14\\
-f(17)= &1\\
-f(18)= &5\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 1 |
+| 6 | 2 |
+| 7 | 1 |
+| 8 | 5 |
+| 9 | 2 |
+| 10 | 2 |
+| 11 | 1 |
+| 12 | 5 |
+| 13 | 1 |
+| 14 | 2 |
+| 15 | 1 |
+| 16 | 14 |
+| 17 | 1 |
+| 18 | 5 |
 
 Information about small groups up to size 2000: http://www.tu-bs.de/~hubesche/small.html
 

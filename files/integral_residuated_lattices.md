@@ -44,21 +44,16 @@ Example 1: The negative cone of any l-group, e.g., $\mathbb Z^-$
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &2\\
-  f(4)= &9\\
-  f(5)= &49\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &364\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 9 |
+| 5 | 49 |
+| 6 | 364 |
 
 ## Subclasses
 [commutative integral residuated lattices](commutative_integral_residuated_lattices.md)

@@ -47,37 +47,30 @@ Example 1:
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &5\\
-\end{array}$     
-$\begin{array}{lr}
-f(6)= &15\\
-f(7)= &53\\
-f(8)= &222\\
-f(9)= &1078\\
-f(10)= &5994\\
-\end{array}$     
-$\begin{array}{lr}
-f(11)= &37622\\
-f(12)= &262776\\
-f(13)= &2018305\\
-f(14)= &16873364\\
-f(15)= &152233518\\
-\end{array}$     
-$\begin{array}{lr}
-f(16)= &1471613387\\
-f(17)= &15150569446\\
-f(18)= &165269824761\\
-f(19)= &\\
-f(20)= &\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 5 |
+| 6 | 15 |
+| 7 | 53 |
+| 8 | 222 |
+| 9 | 1078 |
+| 10 | 5994 |
+| 11 | 37622 |
+| 12 | 262776 |
+| 13 | 2018305 |
+| 14 | 16873364 |
+| 15 | 152233518 |
+| 16 | 1471613387 |
+| 17 | 15150569446 |
+| 18 | 165269824761 |
 
 [HeiRei2002]
-
 
 ## Subclasses
 [Bounded modular lattices](bounded_modular_lattices.md) 

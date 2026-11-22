@@ -44,22 +44,24 @@ is split into two elements $d,d'$ using Alan Day's doubling construction.
 |[Residual size](residual_size.md)  |unbounded |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &4\\
-f(6)= &9\\
-f(7)= &23\\
-f(8)= &65\\
-f(9)= &197\\
-f(10)= &636\\
-f(11)= &2171\\
-f(12)= &7756\\
-f(13)= &28822\\
-f(14)= &110805\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 4 |
+| 6 | 9 |
+| 7 | 23 |
+| 8 | 65 |
+| 9 | 197 |
+| 10 | 636 |
+| 11 | 2171 |
+| 12 | 7756 |
+| 13 | 28822 |
+| 14 | 110805 |
 
 ## Subclasses
 [Semidistributive lattices](semidistributive_lattices.md) 

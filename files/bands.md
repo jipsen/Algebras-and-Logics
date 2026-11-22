@@ -42,18 +42,19 @@ Bands are locally finite (i.e., finitely generated bands are finite).
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &3\\
-f(3)= &10\\
-f(4)= &46\\
-f(5)= &251\\
-f(6)= &1682\\
-f(7)= &13213\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-see also [finite bands](finite_bands.md) and https://oeis.org/A058112
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 10 |
+| 4 | 46 |
+| 5 | 251 |
+| 6 | 1682 |
+| 7 | 13213 |
 
+see also [finite bands](finite_bands.md) and [OEIS A058112](https://oeis.org/A058112)
 
 ## Subclasses
 [Rectangular bands](rectangular_bands.md) 

@@ -106,31 +106,34 @@ Math. Scand., **4** 1956, 193--208)] |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |yes |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &5\\
-f(6)= &15\\
-f(7)= &53\\
-f(8)= &222\\
-f(9)= &1078\\
-f(10)= &5994\\
-f(11)= &37622\\
-f(12)= &262776\\
-f(13)= &2018305\\
-f(14)= &16873364\\
-f(15)= &152233518\\
-f(16)= &1471613387\\
-f(17)= &15150569446\\
-f(18)= &165269824761\\
-f(19)= &1901910625578
-\end{array}$[(Jobst Heitzig, J\"urgen Reinhold, ***Counting finite lattices***,
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 5 |
+| 6 | 15 |
+| 7 | 53 |
+| 8 | 222 |
+| 9 | 1078 |
+| 10 | 5994 |
+| 11 | 37622 |
+| 12 | 262776 |
+| 13 | 2018305 |
+| 14 | 16873364 |
+| 15 | 152233518 |
+| 16 | 1471613387 |
+| 17 | 15150569446 |
+| 18 | 165269824761 |
+| 19 | 1901910625578 |
+
+[(Jobst Heitzig, J\"urgen Reinhold, ***Counting finite lattices***,
 Algebra Universalis,
 **48**, 2002, 43--53)][(Peter Jipsen, Nathan Lawless, ***Generating all finite modular lattices of a given size***, 
 Algebra Universalis, **74**, 2015, 253--264
-
 
 [Diagrams of lattices of size 2 to 7](http://math.chapman.edu/~jipsen/posets/lattices77.html)
 

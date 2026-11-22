@@ -46,20 +46,18 @@ Example 1:
 
 ## Finite members
 
-See http://mathv.chapman.edu/~jipsen/uajs/CanPMon.html
+Number of members with $n$ elements, counted up to isomorphism.
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &2\\
-  f(3)= &3\\
-  f(4)= &9\\
-  f(5)= &21\\
-  f(6)= &125\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 9 |
+| 5 | 21 |
+| 6 | 125 |
+
+See http://mathv.chapman.edu/~jipsen/uajs/CanPMon.html
 
 ## Subclasses
 [Cancellative commutative partial monoids](cancellative_commutative_partial_monoids.md)

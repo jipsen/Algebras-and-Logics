@@ -47,18 +47,18 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
-$\begin{array}{rr}
-f(1)=&1\\
-f(2)=&2\\
-f(3)=&5\\
-f(4)=&14\\
-f(5)=&42\\
-f(6)=&132\\
-f(7)=&\\
-f(8)=&\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-This sequence is the Catalan numbers http://oeis.org/A000108
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 5 |
+| 4 | 14 |
+| 5 | 42 |
+| 6 | 132 |
+
+This sequence is the Catalan numbers [OEIS A000108](https://oeis.org/A000108)
 
 ## Subclasses
 

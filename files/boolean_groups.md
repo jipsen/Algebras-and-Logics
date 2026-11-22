@@ -45,17 +45,18 @@ This algebra generates the variety of Boolean groups.
 
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &0\\
-f(4)= &1\\
-f(5)= &0\\
-f(6)= &0\\
-f(7)= &0\\
-f(8)= &1\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 0 |
+| 4 | 1 |
+| 5 | 0 |
+| 6 | 0 |
+| 7 | 0 |
+| 8 | 1 |
 
 ## Subclasses
 [Trivial algebras](trivial_algebras.md) 

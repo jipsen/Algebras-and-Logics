@@ -52,34 +52,30 @@ set $S$.
 |[Residual size](residual_size.md)  |2 |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &3\\
-\end{array}$     
-$\begin{array}{lr}
-f(6)= &5\\
-f(7)= &8\\
-f(8)= &15\\
-f(9)= &26\\
-f(10)= &47\\
-\end{array}$     
-$\begin{array}{lr}
-f(11)= &82\\
-f(12)= &151\\
-f(13)= &269\\
-f(14)= &494\\
-f(15)= &891\\
-\end{array}$     
-$\begin{array}{lr}
-f(16)= &1639\\
-f(17)= &2978\\
-f(18)= &5483\\
-f(19)= &10006\\
-f(20)= &18428\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 3 |
+| 6 | 5 |
+| 7 | 8 |
+| 8 | 15 |
+| 9 | 26 |
+| 10 | 47 |
+| 11 | 82 |
+| 12 | 151 |
+| 13 | 269 |
+| 14 | 494 |
+| 15 | 891 |
+| 16 | 1639 |
+| 17 | 2978 |
+| 18 | 5483 |
+| 19 | 10006 |
+| 20 | 18428 |
 
 Values known up to size 49 [EHR2002].
 

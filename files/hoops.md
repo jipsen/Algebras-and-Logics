@@ -86,15 +86,17 @@ Finite hoops are the same as [generalized BL-algebras](generalized_bl-algebras.m
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &2\\
-f(4)= &5\\
-f(5)= &10\\
-f(6)= &23\\
-f(7)= &49\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 5 |
+| 5 | 10 |
+| 6 | 23 |
+| 7 | 49 |
 
 ## Subclasses
 [Wajsberg hoops](wajsberg_hoops.md) 

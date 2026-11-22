@@ -89,36 +89,37 @@ modular lattice.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |no |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &2\\
-f(5)= &4\\
-f(6)= &8\\
-f(7)= &16\\
-f(8)= &34\\
-f(9)= &72\\
-f(10)= &157\\
-f(11)= &343\\
-f(12)= &766\\
-f(13)= &1718\\
-f(14)= &3899\\
-f(15)= &8898\\
-f(16)= &20475\\
-f(17)= &47321\\
-f(18)= &110024\\
-f(19)= &256791\\
-f(20)= &601991\\
-f(21)= &1415768\\
-f(22)= &3340847\\
-f(23)= &7904700\\
-f(24)= &18752942\\
-f(25)= &\\
-f(26)= &\\
-\end{array}$[(Peter Jipsen, Nathan Lawless, ***Generating all finite modular lattices of a given size***, 
-Algebra Universalis, **74**, 2015, 253--264
+Number of members with $n$ elements, counted up to isomorphism.
 
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 2 |
+| 5 | 4 |
+| 6 | 8 |
+| 7 | 16 |
+| 8 | 34 |
+| 9 | 72 |
+| 10 | 157 |
+| 11 | 343 |
+| 12 | 766 |
+| 13 | 1718 |
+| 14 | 3899 |
+| 15 | 8898 |
+| 16 | 20475 |
+| 17 | 47321 |
+| 18 | 110024 |
+| 19 | 256791 |
+| 20 | 601991 |
+| 21 | 1415768 |
+| 22 | 3340847 |
+| 23 | 7904700 |
+| 24 | 18752942 |
+
+[(Peter Jipsen, Nathan Lawless, ***Generating all finite modular lattices of a given size***, 
+Algebra Universalis, **74**, 2015, 253--264
 
 ## Subclasses
 [Distributive lattices](distributive_lattices.md) 

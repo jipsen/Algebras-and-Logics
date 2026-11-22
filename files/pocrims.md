@@ -60,23 +60,18 @@ Feel free to add or delete properties from this list. The list below may contain
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 7 |
+| 5 | 26 |
+| 6 | 129 |
+
 1,1,2,7,26,129
-
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &1\\
-  f(3)= &2\\
-  f(4)= &7\\
-  f(5)= &26\\
-\end{array}$     
-$\begin{array}{lr}
-  f(6)= &129\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
-
 
 ## Subclasses
 [Hoops](hoops.md)

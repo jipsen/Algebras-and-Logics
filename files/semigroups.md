@@ -49,19 +49,21 @@ strings over $\Sigma$, with concatenation.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  |no |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &5\\
-f(3)= &24\\
-f(4)= &188\\
-f(5)= &1915\\
-f(6)= &28634\\
-f(7)= &1627672\\
-f(8)= &3684030417\\
-f(9)= &105\,978\,177\,936\,292\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-[http://oeis.org/A027851 Semigroups in the Encyclopedia of Integer Sequences]
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 5 |
+| 3 | 24 |
+| 4 | 188 |
+| 5 | 1915 |
+| 6 | 28634 |
+| 7 | 1627672 |
+| 8 | 3684030417 |
+| 9 | 105978177936292 |
+
+[OEIS A027851](https://oeis.org/A027851)
 
 ## Subclasses
 [Bands](bands.md) 

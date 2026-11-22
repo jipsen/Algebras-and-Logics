@@ -45,21 +45,16 @@ Example 1: Any partial semigroup with a new element $e$ and $\cdot$ extended wit
 
 ## Finite members
 
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 3 |
+| 3 | 15 |
+| 4 | 112 |
+
 http://mathv.chapman.edu/~jipsen/uajs/PMon.html
-
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &3\\
-  f(3)= &15\\
-  f(4)= &112\\
-  f(5)= &\\
-  f(6)= &\\
-  f(7)= &\\
-  f(8)= &\\
-  f(9)= &\\
-  f(10)= &\\
-\end{array}$
-
 
 ## Subclasses
 [Partial commutative monoids](partial_commutative_monoids.md)

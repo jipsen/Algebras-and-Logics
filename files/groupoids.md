@@ -45,20 +45,22 @@ Feel free to add or delete properties from this list. The list below may contain
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &2\\
-  f(3)= &3\\
-  f(4)= &7\\
-  f(5)= &9\\
-  f(6)= &16\\
-  f(7)= &22\\
-  f(8)= &42\\
-  f(9)= &57\\
-  f(10)= &90\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
 
-http://oeis.org/A140189
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 7 |
+| 5 | 9 |
+| 6 | 16 |
+| 7 | 22 |
+| 8 | 42 |
+| 9 | 57 |
+| 10 | 90 |
+
+[OEIS A140189](https://oeis.org/A140189)
 
 ## Subclasses
 [Groups](groups.md)

@@ -42,10 +42,13 @@ Example 1:
 
 ## Finite members
 
-^n  ^  # of algebras^
-|1  |  1|
-|2  |  4|
-|3  |  215|
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 4 |
+| 3 | 215 |
 
 ## Subclasses
 [Commutative binars](commutative_binars.md) 

@@ -62,9 +62,22 @@ Only the trivial $\sqrt{'}$qMV-algebra is an [MV-algebra](mv-algebras.md).
 
 ## Finite members
 
-^$n$       | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 |
-^# of algs | 1 | 1 | 2 | 2 | 5 | 5 | 8 | 8 | 16| 16 | 24 | 24 |   |   |   |   |   |   |   |   |   |   |   |   |   |
-^# of si's | 0 | 1 | 1 | 0 | 2 | 0 | 0 |  |  |   |   |   |   |   |   |   |   |   |   |  |   |   |   |   |   |
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members | subdirectly irreducible |
+|--:|--:|--:|
+| 1 | 1 | 0 |
+| 2 | 1 | 1 |
+| 3 | 2 | 1 |
+| 4 | 2 | 0 |
+| 5 | 5 | 2 |
+| 6 | 5 | 0 |
+| 7 | 8 | 0 |
+| 8 | 8 |  |
+| 9 | 16 |  |
+| 10 | 16 |  |
+| 11 | 24 |  |
+| 12 | 24 |  |
 
 ## Subclasses
 [Strongly cartesian sqrt-quasi-MV-algebras](strongly_cartesian_sqrt-quasi-mv-algebras.md) 

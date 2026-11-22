@@ -58,14 +58,16 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &3\\
-f(4)= &14\\
-f(5)= &88\\
-f(6)= &775\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 3 |
+| 4 | 14 |
+| 5 | 88 |
+| 6 | 775 |
 
 ## Subclasses
 [Commutative BCK-algebras](commutative_bck-algebras.md) 

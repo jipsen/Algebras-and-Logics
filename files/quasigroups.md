@@ -48,15 +48,17 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
 
-$\begin{array}{lr}
-f(1)= &1\\
-f(2)= &1\\
-f(3)= &1\\
-f(4)= &5\\
-f(5)= &35\\
-f(6)= &1411\\
-f(7)= &1130531\\
-\end{array}$
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 3 | 1 |
+| 4 | 5 |
+| 5 | 35 |
+| 6 | 1411 |
+| 7 | 1130531 |
 
 ## Subclasses
 [Loops](loops.md) 

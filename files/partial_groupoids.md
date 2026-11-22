@@ -45,15 +45,17 @@ Example 1: The empty partial binary operation on any set $A$ gives a partial gro
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &2\\
-  f(2)= &45\\
-  f(3)= &43968\\
-  f(4)= &6358196250\\
-  f(5)= &236919104155855296\\
-\end{array}$     
+Number of members with $n$ elements, counted up to isomorphism.
 
-See http://oeis.org/A090601
+| $n$ | members |
+|--:|--:|
+| 1 | 2 |
+| 2 | 45 |
+| 3 | 43968 |
+| 4 | 6358196250 |
+| 5 | 236919104155855296 |
+
+See [OEIS A090601](https://oeis.org/A090601)
 
 ## Subclasses
 [Groupoids](groupoids.md)

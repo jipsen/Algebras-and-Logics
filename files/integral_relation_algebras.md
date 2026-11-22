@@ -56,8 +56,18 @@ Every [group relation algebra](group_relation_algebras.md) is integral.
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      | |
 
 ## Finite members
-^$n$         | 1 | 2 | 4 |  8 |  16 |       32 |             64 |                     128 | 256 |
-^# of algs | 1 | 1 | 2 | 10 | 102 |  4412 |  4886349 | 344809166311 |  | 
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 1 |
+| 4 | 2 |
+| 8 | 10 |
+| 16 | 102 |
+| 32 | 4412 |
+| 64 | 4886349 |
+| 128 | 344809166311 |
 
 For $n\ne 2^k$, the # of algebras is 0.
 

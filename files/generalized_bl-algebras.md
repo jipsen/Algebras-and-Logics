@@ -47,11 +47,18 @@ Example 1:
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 
 ## Finite members
-^$n$       | 1 | 2 | 3 | 4 |  5 |  6 |  7 |   8 | 9 | 10 | 11 |
-^# of algs | 1 | 1 | 2 | 5 | 10 | 23 | 49 | 111 |  |   |   |   
-^# of si's | 1 | 1 | 2 | 4 |  9 | 19 | 42 |  97 |  |   |   |
+Number of members with $n$ elements, counted up to isomorphism.
 
-
+| $n$ | members | subdirectly irreducible |
+|--:|--:|--:|
+| 1 | 1 | 1 |
+| 2 | 1 | 1 |
+| 3 | 2 | 2 |
+| 4 | 5 | 4 |
+| 5 | 10 | 9 |
+| 6 | 23 | 19 |
+| 7 | 49 | 42 |
+| 8 | 111 | 97 |
 
 ## Subclasses
 [Generalized MV-algebras](generalized_mv-algebras.md) 

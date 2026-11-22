@@ -48,13 +48,13 @@ Example 1: The natural numbers larger than 1, with addition, or with multiplicat
 
 ## Finite members
 
-$\begin{array}{lr}
-  f(1)= &1\\
-  f(2)= &11\\
-  f(3)= &173\\
-  f(4)= &\\
-  f(5)= &\\
-\end{array}$     
+Number of members with $n$ elements, counted up to isomorphism.
+
+| $n$ | members |
+|--:|--:|
+| 1 | 1 |
+| 2 | 11 |
+| 3 | 173 |
 
 Gajdos Kuril 2014 Ordered semigroups of size at most 7 and linearly ordered semigroups of size at most 10, Semigroup Forum
 
@@ -75,7 +75,6 @@ Inverse semigroups 2886 44275 830584
 2-nilpotent semigroups 243 1533 12038
 
 3-nilpotent semigroups 14150 2561653 3215028097
-
 
 ## Subclasses
 [Commutative partially ordered semigroups](commutative_partially_ordered_semigroups.md)
