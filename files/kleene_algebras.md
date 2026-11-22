@@ -5,7 +5,7 @@ Abbreviation: **KA**
 A ***Kleene algebra*** is a structure $\mathbf{A}=\langle A,\vee
 ,0,\cdot ,1,^{\ast }\rangle$ of type $\langle
 2,0,2,0,1\rangle$ such that
-$\langle A,\vee ,0,\cdot ,1\rangle$ is an [idempotent semiring with identity and zero](idempotent_semiring_with_identity_and_zeros.md)
+$\langle A,\vee ,0,\cdot ,1\rangle$ is an [idempotent semiring with identity and zero](idempotent_semirings_with_identity_and_zero.md)
 
 $e\vee x\vee x^{\ast }x^{\ast }=x^{\ast }$
 
@@ -76,5 +76,5 @@ f(6)= &1488\\
 
 L. J. Stockmeyer, A. R. Meyer, ***Word problems requiring exponential time: preliminary report***,
 Fifth Annual ACM Symposium on Theory of Computing (Austin, Tex., 1973),
-Assoc. Comput. Mach., New York, 1973, 1--9[ZMATH](zmaths.md)
+Assoc. Comput. Mach., New York, 1973, 1--9 ZMATH
 )]

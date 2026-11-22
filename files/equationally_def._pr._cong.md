@@ -10,7 +10,7 @@ Note that when the structures are algebras then the atomic formulas are simply e
 
 ### = Properties that imply EDP(R)C =
 
-[Discriminator variety](discriminator_varietys.md)
+[Discriminator variety](discriminator_varieties.md)
 
 ### = Properties implied by EDP(R)C =
 

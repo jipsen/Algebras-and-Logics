@@ -84,5 +84,5 @@ Vaughan Pratt, ***Action logic and pure induction***,
 
 
 C.J. van Alten and J.G. Raftery, ***Embedding Theorems and Rule Separation in Logics without Weakening***,
-Studia Logica, 2004, ...--..., [preprint](preprints.md)
+Studia Logica, 2004, ...--..., preprint
 

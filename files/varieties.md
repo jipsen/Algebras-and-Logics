@@ -63,16 +63,16 @@ $\langle 2,0\rangle$ [Pointed groupoids](pointed_groupoids.md)
     *[BCK-algebras](bck-algebras.md)*
       *[Commutative BCK-algebras](commutative_bck-algebras.md)
 
-$\langle 2,1\rangle$ [Groupoids with a unary operation](groupoids_with_a_unary_operations.md)
+$\langle 2,1\rangle$ [Groupoids with a unary operation](groupoids_with_a_unary_operation.md)
   *[Inverse semigroups](inverse_semigroups.md)
     *[Commutative inverse semigroups](commutative_inverse_semigroups.md)
 
-$\langle 2,1,0\rangle$ [Pointed groupoids with a unary operation](pointed_groupoids_with_a_unary_operations.md)
+$\langle 2,1,0\rangle$ [Pointed groupoids with a unary operation](pointed_groupoids_with_a_unary_operation.md)
   *[Groups](groups.md)
     *[Abelian groups](abelian_groups.md)
       *[Boolean groups](boolean_groups.md)
 
-$\langle 2,1,0,1,1,\ldots\rangle$ [Pointed groupoids with a unary operations](pointed_groupoids_with_a_unary_operations.md)
+$\langle 2,1,0,1,1,\ldots\rangle$ [Pointed groupoids with unary operations](pointed_groupoids_with_unary_operations.md)
   *[Modules over a ring](modules_over_a_ring.md)
     *[Vector spaces over a field](vector_spaces_over_a_field.md)
 
@@ -92,10 +92,10 @@ $\langle 2,2,0\rangle$ [Pointed duo-groupoids](pointed_duo-groupoids.md)
   *[Semirings with zero](semirings_with_zero.md)
 
 $\langle 2,2,1\rangle$
-  *[Lattices with a unary operation](lattices_with_a_unary_operations.md)
-    *[Distributive lattices with a unary operation](distributive_lattices_with_a_unary_operations.md)
-      *[Distributive lattices with a unary operator](distributive_lattices_with_a_unary_operators.md)
-    *[Lattices with a unary operator](lattices_with_a_unary_operators.md)
+  *[Lattices with a unary operation](lattices_with_a_unary_operation.md)
+    *[Distributive lattices with a unary operation](distributive_lattices_with_a_unary_operation.md)
+      *[Distributive lattices with a unary operator](distributive_lattices_with_a_unary_operator.md)
+    *[Lattices with a unary operator](lattices_with_a_unary_operator.md)
 
 $\langle 2,2,\ldots\rangle$
   *[Lattices with additional operations](lattices_with_additional_operations.md)
@@ -122,10 +122,10 @@ $\langle 2,1,0,2,0\rangle$
 
 $\langle 2,0,2,0,1\rangle$
   *[Kleene algebras](kleene_algebras.md)*
-  *[Bounded lattices with a unary operation](bounded_lattices_with_a_unary_operations.md)
-    *[Bounded distributive lattices with a unary operation](bounded_distributive_lattices_with_a_unary_operations.md)
-      *[Bounded distributive lattices with a unary operator](bounded_distributive_lattices_with_a_unary_operators.md)
-    *[Bounded lattices with a unary operator](bounded_lattices_with_a_unary_operators.md)
+  *[Bounded lattices with a unary operation](bounded_lattices_with_a_unary_operation.md)
+    *[Bounded distributive lattices with a unary operation](bounded_distributive_lattices_with_a_unary_operation.md)
+      *[Bounded distributive lattices with a unary operator](bounded_distributive_lattices_with_a_unary_operator.md)
+    *[Bounded lattices with a unary operator](bounded_lattices_with_a_unary_operator.md)
     *[p-algebras](p-algebras.md)
       *[distributive p-algebras](distributive_p-algebras.md)
         *[Stone algebras](stone_algebras.md)
@@ -135,7 +135,7 @@ $\langle 2,0,2,0,1\rangle$
       *[distributive dual p-algebras](distributive_dual_p-algebras.md)
 
 $\langle 2,0,2,0,1,1\rangle$
-  *[Boolean algebras with a unary operation](boolean_algebras_with_a_unary_operations.md)
+  *[Boolean algebras with a unary operation](boolean_algebras_with_a_unary_operation.md)
     *[Modal algebras](modal_algebras.md)
       *[Closure algebras](closure_algebras.md)
         *[Monadic algebras](monadic_algebras.md)
@@ -146,8 +146,8 @@ $\langle 2,0,2,0,1,1\rangle$
       *[Tense algebras](tense_algebras.md)
 
 $\langle 2,0,2,0,1,2\rangle$
-  *[Boolean algebras with a binary operation](boolean_algebras_with_a_binary_operations.md)
-    *[Boolean algebras with a binary operator](boolean_algebras_with_a_binary_operators.md)
+  *[Boolean algebras with a binary operation](boolean_algebras_with_a_binary_operation.md)
+    *[Boolean algebras with a binary operator](boolean_algebras_with_a_binary_operator.md)
       *[Boolean semigroups](boolean_semigroups.md)
         *[Commutative Boolean semigroups](commutative_boolean_semigroups.md)
           *[Boolean semilattices](boolean_semilattices.md)
@@ -174,8 +174,8 @@ $\langle 2,0,2,0,1,\ldots\rangle$
   *[Boolean algebras with additional operations](boolean_algebras_with_additional_operations.md)
     *[Boolean algebras with operators](boolean_algebras_with_operators.md)
       *[Boolean modules over a relation algebra](boolean_modules_over_a_relation_algebra.md)
-      *[Cylindric algebras of dimension n](cylindric_algebras_of_dimension_ns.md)
-        *[Representable cylindric algebras of dimension n](representable_cylindric_algebras_of_dimension_ns.md)
+      *[Cylindric algebras of dimension n](cylindric_algebras_of_dimension_n.md)
+        *[Representable cylindric algebras of dimension n](representable_cylindric_algebras_of_dimension_n.md)
 
 $\langle 2,0,2,0,\ldots\rangle$
   *[Heyting algebras](heyting_algebras.md)

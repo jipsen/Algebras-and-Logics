@@ -7,7 +7,7 @@ A ***Peirce algebra*** is a 2-sorted structure $\mathbf{A}=\langle \mathbf R,\ma
 
 $\mathbf R=\langle R,\vee,0,\wedge,1,\neg,\circ,^\smile,e\rangle$ is a [relation algebra](relation_algebras.md)
 
-$\mathbf B=\langle B,\vee,0,\wedge,1,\neg,f_r\ (r\in R)\rangle$ is a [Boolean module over $\mathbf R$](boolean_module_over_$\mathbf_r$s.md)
+$\mathbf B=\langle B,\vee,0,\wedge,1,\neg,f_r\ (r\in R)\rangle$ is a [Boolean module over $\mathbf R$](boolean_modules_over_r.md)
 
 $^c:B\to R$ is ***cylindrification***: $f_{x^c}(1)=x$ and $f_r(1)^c=f_r(1)$
 

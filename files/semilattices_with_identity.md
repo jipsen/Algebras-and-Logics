@@ -55,7 +55,7 @@ f(6)= &15\\
 \end{array}$
 
 ## Subclasses
-[Semilattices with identity and zero](semilattices_with_identity_and_zeros.md) 
+[Semilattices with identity and zero](semilattices_with_identity_and_zero.md) 
 
 ## Superclasses
 [Semilattices](semilattices.md) 

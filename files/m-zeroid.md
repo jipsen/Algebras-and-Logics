@@ -75,11 +75,11 @@ The dual operation $x\cdot y=-(-y+-x)$ is the fusion of a commutative integral i
 see http://oeis.org/A030453
 
 ## Subclasses
-[TBD](tbds.md) 
+TBD 
 
 
 ## Superclasses
-[TBD](tbds.md) 
+TBD 
 
 
 ## References

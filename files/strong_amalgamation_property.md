@@ -17,7 +17,7 @@ where $\text{Im}(f ')=\{f '(x) | x\in B\}$.
 ### Properties that imply the SAP
 [Amalgamation property](amalgamation_property.md) and [Epimorphisms are surjective](epimorphisms_are_surjective.md)
 
-[Superamalgamation property](superamalgamation_propertys.md)
+[Superamalgamation property](superamalgamation_property.md)
 
 ### Properties implied by the SAP
 [Amalgamation property](amalgamation_property.md)

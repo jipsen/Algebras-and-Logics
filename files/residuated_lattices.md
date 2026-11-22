@@ -33,7 +33,7 @@ Example 1:
 |Property|Value|
 |---|---|
 |[Classtype](classtype.md)                        |variety |
-|[Equational theory](equational_theory.md)                |decidable [OK1985] [implementation](implementations.md) |
+|[Equational theory](equational_theory.md)                |decidable [OK1985] implementation |
 |[Quasiequational theory](quasiequational_theory.md)           |undecidable |
 |[First-order theory](first-order_theory.md)               |undecidable |
 |[Locally finite](locally_finite.md)                   |no |
@@ -87,6 +87,6 @@ f(8)= &295292\\
 
 
 Hiroakira Ono, Yuichi Komori, ***Logics without the contraction rule***,
-J. Symbolic Logic, **50**, 1985, 169--201[ZMATH](zmaths.md)
+J. Symbolic Logic, **50**, 1985, 169--201 ZMATH
 )]\end{document}
 %</pre>

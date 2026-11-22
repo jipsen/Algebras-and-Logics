@@ -66,7 +66,7 @@ Fields are exactly the commutative rings with identity that are simple, i.e., ha
 For every prime $p$ and positive integer $m$ there exists, up to isomorphism, exactly one field of cardinality $p^m$, called the Galois field $GF(p^m)$.
 
 ## Subclasses
-[Fields of characteristic zero](fields_of_characteristic_zeros.md) 
+[Fields of characteristic zero](fields_of_characteristic_zero.md) 
 
 [Algebraically closed fields](algebraically_closed_fields.md) 
 
