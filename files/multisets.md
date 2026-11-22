@@ -13,14 +13,6 @@ It is not unusual to give several (equivalent) definitions. Ideally, one of the 
 Let $\mathbf{A}$ and $\mathbf{B}$ be multisets. A morphism from $\mathbf{A}$ to $\mathbf{B}$ is a function $h:A\rightarrow B$ that preserves multiplicity: 
 $h(m(x))=m(h(x))$
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

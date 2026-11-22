@@ -17,14 +17,6 @@ Let $\mathbf{A}$ and $\mathbf{B}$ be ordered groups. A morphism from $\mathbf{A}
 $h(x + y)=h(x) + h(y)$,
 $x\le y\Longrightarrow h(x)\le h(y)$.
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

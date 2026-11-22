@@ -18,14 +18,6 @@ $h(x \cdot y)=h(x) \cdot h(y)$,
 $h(x \backslash y)=h(x) \backslash h(y)$,
 $h(x / y)=h(x) / h(y)$,
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

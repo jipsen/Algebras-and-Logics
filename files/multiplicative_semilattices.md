@@ -19,14 +19,6 @@ Let $\mathbf{A}$ and $\mathbf{B}$ be multiplicative semilattices. A morphism fro
 $h(x \vee y)=h(x) \vee h(y)$,
 $h(x \cdot y)=h(x) \cdot h(y)$,
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

@@ -15,14 +15,6 @@ $xy\le z\iff x\le \neg(y(\neg z))\iff y\le \neg((\neg z)x)$
 Let $\mathbf{A}$ and $\mathbf{B}$ be involutive residuated lattices. A morphism from $\mathbf{A}$ to $\mathbf{B}$ is a function $h:A\rightarrow B$ that is a homomorphism: 
 $h(x \vee y)=h(x) \vee h(y)$, $h(x \cdot y)=h(x) \cdot h(y)$, $h({\sim}x)={\sim}h(x)$ and $h(1)=1$. 
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

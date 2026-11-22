@@ -18,14 +18,6 @@ $h(x \vee y)=h(x) \vee h(y)$,
 $h(x \wedge y)=h(x) \wedge h(y)$,
 $h(x \cdot y)=h(x) \cdot h(y)$.
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

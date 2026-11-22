@@ -17,14 +17,6 @@ Let $\mathbf{A}$ and $\mathbf{B}$ be commutative partially ordered monoids. A mo
 $h(x \cdot y)=h(x) \cdot h(y)$,
 $h(1)=1$, and $x\le y\Longrightarrow h(x)\le h(y)$.
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 
