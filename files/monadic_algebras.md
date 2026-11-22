@@ -22,14 +22,6 @@ $h(x \vee y)=h(x) \vee h(y)$,
 $h(\neg x)=\neg h(x)$, 
 $h(f(x))=f(h(x))$.
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

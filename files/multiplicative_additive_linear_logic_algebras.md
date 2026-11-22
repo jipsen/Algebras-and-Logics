@@ -24,14 +24,6 @@ It is not unusual to give several (equivalent) definitions. Ideally, one of the 
 ### Morphisms
 Let $\mathbf{A}$ and $\mathbf{B}$ be multiplicative additive linear logic algebras. A morphism from $\mathbf{A}$ to $\mathbf{B}$ is a function $h:A\rightarrow B$ that is a homomorphism.
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

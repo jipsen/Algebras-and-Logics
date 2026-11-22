@@ -20,14 +20,6 @@ $h(x \cdot y)=h(x) \cdot h(y)$,
 $h(x \to y)=h(x) \to h(y)$,
 $h(0)=0$
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

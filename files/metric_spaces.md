@@ -20,14 +20,6 @@ It is not unusual to give several (equivalent) definitions. Ideally, one of the 
 Let $\mathbf{X}$ and $\mathbf{Y}$ be metric spaces. A morphism from $\mathbf{X}$ to $\mathbf{Y}$ is a function $h:X\rightarrow Y$ that is continuous in
 the topology induced by the metric: $\forall z\in X\ \forall\epsilon>0\ \exists\delta>0\ \forall x\in X(0<d(x,z)<\delta\Longrightarrow d(h(x),h(z))<\epsilon$
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

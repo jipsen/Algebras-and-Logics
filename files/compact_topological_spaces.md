@@ -17,14 +17,6 @@ It is not unusual to give several (equivalent) definitions. Ideally, one of the 
 Let $\mathbf{X}$ and $\mathbf{Y}$ be compact topological spaces. A morphism from $\mathbf{X}$ to $\mathbf{Y}$ is a function $h:X\rightarrow Y$ that is a continuous: 
 $\forall V\in\Omega_{\mathbf Y}(h^{-1}[Y]\in\Omega_{\mathbf X})$
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

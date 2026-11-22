@@ -16,14 +16,6 @@ It is not unusual to give several (equivalent) definitions. Ideally, one of the 
 Let $\mathbf{A}$ and $\mathbf{B}$ be commutative integral ordered monoids. A morphism from $\mathbf{A}$ to $\mathbf{B}$ is a function $h:A\rightarrow B$ that is a orderpreserving homomorphism: 
 $h(x \cdot y)=h(x) \cdot h(y)$, $h(1)=1$, and $x\le y\Longrightarrow h(x)\le h(y)$.
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

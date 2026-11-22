@@ -22,14 +22,6 @@ $h(\bigvee X)=\bigvee h[X]$ for all $X\subseteq A$ (hence $h(0)=0$),
 $h(x \wedge y)=h(x) \wedge h(y)$ and
 $h(e)=e$.
 
-## Definition
-A ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 

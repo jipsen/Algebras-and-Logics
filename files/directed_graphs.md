@@ -16,14 +16,6 @@ It is not unusual to give several (equivalent) definitions. Ideally, one of the 
 Let $\mathbf{G}$ and $\mathbf{H}$ be directed graphs. A morphism from $\mathbf{G}$ to $\mathbf{H}$ is a function $h:G\rightarrow H$ that preserves $E$: 
 $\langle x,y\rangle\in E^{\mathbf G}\Longrightarrow \langle h(x), h(y)\rangle\in E^{\mathbf H}$
 
-## Definition
-An ***...*** is a structure $\mathbf{A}=\langle A,...\rangle$ of type $\langle
-...\rangle$ such that
-
-$...$ is ...:  $axiom$
-  
-$...$ is ...:  $axiom$
-
 ## Examples
 Example 1: 
 
