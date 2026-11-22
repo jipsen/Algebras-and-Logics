@@ -54,7 +54,7 @@ f(6)= &\\
 \end{array}$
 
 ## Subclasses
-[Commutative semigroups with zero](commutative_semigroups_with_zeros.md) 
+[Commutative semigroups with zero](commutative_semigroups_with_zero.md) 
 
 ## Superclasses
 [Semigroups](semigroups.md) 

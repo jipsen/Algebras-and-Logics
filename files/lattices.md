@@ -73,7 +73,7 @@ theory of lattices.
 Example 1: $\langle P(S),\cup ,\cap ,\subseteq \rangle$, the collection of
 subsets of a sets $S$, ordered by inclusion.
 
-/*[Lattices (mace)](lattices_(mace)s.md)*/
+/*Lattices (mace)*/
 
 
 ## Basic results

@@ -80,6 +80,6 @@ Hiroakira Ono, Yuichi Komori,
 ***Logics without the contraction rule***,
 J. Symbolic Logic,
 **50**1985, 169--201
-[ZMATH](zmaths.md)
-[implementation](implementations.md)
+ZMATH
+implementation
 )]

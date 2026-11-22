@@ -40,7 +40,7 @@ A ***Boolean ring*** is a structure $\mathbf{A}=\langle A,+
 ,0,\cdot ,1\rangle$ of type $\langle 2,0,2,0\rangle$
 such that
 
-$\langle A,+ ,0,\cdot ,1\rangle$ is a [commutative ring with unit](commutative_ring_with_units.md)
+$\langle A,+ ,0,\cdot ,1\rangle$ is a [commutative ring with unit](commutative_rings_with_identity.md)
 
 $\cdot$ is idempotent:  $x\cdot x=x$
 

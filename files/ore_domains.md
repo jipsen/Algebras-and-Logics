@@ -3,7 +3,7 @@
 Abbreviation: **OreDom**
 
 ## Definition
-An ***Ore domain*** is a [ring with identity](ring_with_identitys.md) $\mathbf{A}=\langle A,+,-,0,\cdot,1\rangle$ such that
+An ***Ore domain*** is a [ring with identity](rings_with_identity.md) $\mathbf{A}=\langle A,+,-,0,\cdot,1\rangle$ such that
 
 $\cdot$ is ***integral***:  $xy=0\Longrightarrow x=0\text{ or }y=0$
 

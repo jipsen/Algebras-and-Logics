@@ -7,7 +7,7 @@ A ***frame*** is a structure $\mathbf{A}=\langle A, \bigvee, \wedge, e, 0\rangle
 
 $\langle A, \bigvee, 0\rangle$ is a [complete semilattice](complete_semilattices.md) with $0=\bigvee\emptyset$,
 
-$\langle A, \wedge, e\rangle$ is a [meet semilattice with identity](meet_semilattice_with_identitys.md), and
+$\langle A, \wedge, e\rangle$ is a [meet semilattice with identity](meet_semilattices_with_identity.md), and
 
 $\wedge$ distributes over $\bigvee$:  $x\wedge(\bigvee Y)=\bigvee_{y\in Y}(x\wedge y)$
 

@@ -67,7 +67,7 @@ f(9)= &\\
 ## Superclasses
 [Ordered monoids](ordered_monoids.md) reduced type
 
-[Ordered semigroups with zero](ordered_semigroups_with_zeros.md) reduced type
+[Ordered semigroups with zero](ordered_semigroups_with_zero.md) reduced type
 
 [Representable residuated lattices](representable_residuated_lattices.md)
 

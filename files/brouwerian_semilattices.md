@@ -5,7 +5,7 @@ Abbreviation: **BrSlat**
 ## Definition
 A ***Brouwerian semilattice*** is a structure $\mathbf{A}=\langle A, \wedge, 1, \rightarrow\rangle$ such that
 
-$\langle A, \wedge, 1\rangle$ is a [semilattice with identity](semilattice_with_identitys.md)
+$\langle A, \wedge, 1\rangle$ is a [semilattice with identity](semilattices_with_identity.md)
 
 $\rightarrow$ gives the residual of $\wedge$:  $x\wedge y\leq z\Longleftrightarrow y\leq x\rightarrow z$
 
