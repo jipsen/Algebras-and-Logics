@@ -1,6 +1,6 @@
 Sandbox edit all you like
 
-$x^2$ [wp:groups](wp:groups.md)
+$x^2$ [groups](https://en.wikipedia.org/wiki/Group_(mathematics))
 
 `x^2`
 <HTML>
