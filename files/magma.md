@@ -25,7 +25,8 @@ Example 1: $\langle\mathbb N,{}^\wedge\rangle$ is the exponentiation magma of th
 |---|---|
 |[Classtype](classtype.md)  |  variety |
 |[Equational theory](equational_theory.md)  |  decidable |
-|[Quasiequational theory](quasiequational_theory.md)  |   |
+|[Quasiequational theory](quasiequational_theory.md)  |  decidable (FEP) |
+|[Universal theory](universal_theory.md)  |  decidable (FEP) |
 |[First-order theory](first-order_theory.md)  |  undecidable |
 |[Locally finite](locally_finite.md)  |  no |
 |[Residual size](residual_size.md)  |  unbounded |
