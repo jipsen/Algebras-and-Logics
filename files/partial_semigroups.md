@@ -5,7 +5,7 @@ Abbreviation: **PSgrp**
 ## Definition
 A ***partial semigroup*** is a structure $\mathbf{A}=\langle A,\cdot\rangle$, where 
 
-$\cdot$ is a ***partial binary operation***, i.e., $\cdot: A\times A\to A+\{*\}$ and
+$\cdot$ is a ***partial binary operation***, i.e., $\cdot: A\times A\to A+\\{*\\}$ and
 
 $\cdot$ is ***associative***: $(x\cdot y)\cdot z\ne *$ or $x\cdot (y\cdot z)\ne *$ imply $(x\cdot y)\cdot z=x\cdot (y\cdot z)$.
 
