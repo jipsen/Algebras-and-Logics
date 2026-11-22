@@ -31,7 +31,7 @@ Example 1: Given any poset with top element 1, $\langle A,\le, 1\rangle$, define
 
 ## Basic results
 
-Hilbert algebras are the algebraic models of the implicational fragment of [wp>intuitionistic logic](wp>intuitionistic_logics.md), i.e., they are $(\to,1)$-subreducts of [Heyting algebras](heyting_algebras.md).
+Hilbert algebras are the algebraic models of the implicational fragment of [intuitionistic logic](https://en.wikipedia.org/wiki/Intuitionistic_logic), i.e., they are $(\to,1)$-subreducts of [Heyting algebras](heyting_algebras.md).
 
 The variety of Hilbert algebras is not generated as a quasivariety by any of its finite members [CelaniCabrer2005].
 
