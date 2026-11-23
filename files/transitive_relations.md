@@ -7,14 +7,16 @@ A ***transitive relation*** is a structure $\mathbf{X}=\langle X,R\rangle$ such 
 (i.e. $R\subseteq X\times X$) that
 is
 
-transitive:  $xRy\text{ and }yRz\Longrightarrow xRz$
+transitive:  $xRy\text{ and }yRz\Longrightarrow xRz$.
+
+Remark: A binary relation on $X$ is also denoted $R_\mathbf{X}$.
 
 ### Morphisms
-Let $\mathbf{X}$ and $\mathbf{Y}$ be transitive relations. A morphism from $\mathbf{X}$ to $\mathbf{Y}$ is a function $h:X\rightarrow Y$ that is a homomorphism: 
-$xR_{\mathbf X} y\Longrightarrow h(x)R_{\mathbf Y}h(y)$
+Let $R_\mathbf{X}$ and $R_\mathbf{Y}$ be transitive relations. A morphism from $\mathbf{X}$ to $\mathbf{Y}$ is a function $h:X\rightarrow Y$ that is a relational homomorphism: 
+$x\ R_\mathbf{X}\ y\Longrightarrow h(x)\ R_\mathbf{Y}\ h(y)$
 
 ## Definition
-A ***transitive relation*** is a structure $\mathbf{X}=\langle X,R\rangle$ with $R\subseteq X\times X$ such that $R\circ R\subseteq R$, where $R\circ S=\{\langle x,z\rangle\mid \exists y\,(xRy\text{ and }ySz)\}$.
+A ***transitive relation*** is a structure $\mathbf{X}=\langle X,R\rangle$ with $R\subseteq X\times X$ such that $R\circ R\subseteq R$, where $R\circ S=\\{\langle x,z\rangle\mid \exists y\,(xRy\text{ and }ySz)\\}$.
 
 ## Examples
 Example 1: $\langle\mathbb{N},<\rangle$, and more generally every strict partial order.
@@ -53,7 +55,7 @@ Epimorphisms are surjective: if $h:\mathbf X\to\mathbf Y$ is not onto, take two 
 |[Strong amalgamation property](strong_amalgamation_property.md)     |yes |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)      |yes |
 
-The quasiequational (universal Horn) theory is decidable since the language is finite and purely relational: deciding whether a universal sentence follows from the axioms reduces to satisfiability of an $\exists^*\forall^*$ sentence (Bernays–Schönfinkel class). The first-order theory is undecidable, since the theory of partially ordered sets, which is undecidable [ELTT1965], is a finitely axiomatized extension of it.
+The quasiequational (universal Horn) theory is decidable since the language is finite and purely relational: deciding whether a universal sentence follows from the axioms reduces to satisfiability of an $\exists^\ast\forall^\ast$ sentence ([Bernays–Schönfinkel class](https://en.wikipedia.org/wiki/Bernays%E2%80%93Sch%C3%B6nfinkel_class)). The first-order theory is undecidable, since the theory of partially ordered sets, which is undecidable [ELTT1965], is a finitely axiomatized extension of it.
 
 ## Finite members
 
