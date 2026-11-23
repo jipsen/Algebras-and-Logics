@@ -5,7 +5,7 @@ Abbreviation: **Sgrp$_0$**
 A ***semigroup with zero*** is a structure $\mathbf{S}=\langle S,\cdot,0\rangle$ of type $\langle 2,0\rangle$ such that
 
 
-$\langle S,\cdot\rangle$ is a [semigroups](semigroups.md)
+$\langle S,\cdot\rangle$ is a [semigroup](semigroups.md)
 
 
 $0$ is a zero for $\cdot$:  $x\cdot 0=0$, $0\cdot x=0$

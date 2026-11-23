@@ -5,7 +5,7 @@ Abbreviation: **DpAlg**
 A ***distributive p-algebra*** is a structure $\mathbf{L}=\langle L,\vee ,0,\wedge ,1,^*\rangle$ such that
 
 
-$\langle L,\vee,0,\wedge,1\rangle$ is a [bounded distributive lattices](bounded_distributive_lattices.md)
+$\langle L,\vee,0,\wedge,1\rangle$ is a [bounded distributive lattice](bounded_distributive_lattices.md)
 
 
 $x^*$ is the ***pseudo complement*** of $x$:  $y\leq x^* \iff x\wedge y=0$

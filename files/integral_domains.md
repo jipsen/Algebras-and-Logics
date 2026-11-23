@@ -22,7 +22,7 @@ Example 1: $\langle\mathbb{Z},+,-,0,\cdot,1\rangle$, the ring of integers with a
 
 
 ## Basic results
-Every finite integral domain is a [fields](fields.md).
+Every finite integral domain is a [field](fields.md).
 
 ## Properties
 

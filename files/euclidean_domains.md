@@ -2,7 +2,7 @@
 
 Abbreviation: **EucDom**
 ## Definition
-A ***Euclidean domain*** is an [integral domains](integral_domains.md) $\langle D,+,-,0,\cdot,1\rangle$ together with a function $d:D\setminus\{0\} \to\mathbf{N}$ such that 
+A ***Euclidean domain*** is an [integral domain](integral_domains.md) $\langle D,+,-,0,\cdot,1\rangle$ together with a function $d:D\setminus\{0\} \to\mathbf{N}$ such that 
 
 
 $\forall a,b\ (a\ne 0$, $b\neq 0 \Longrightarrow d(a)\le d(ab))$

@@ -6,10 +6,10 @@ A ***near-ring*** is a structure $\mathbf{N}=\langle N,+,-,0,\cdot
 \rangle$ of type $\langle 2,1,0,2\rangle$ such that
 
 
-$\langle N,+,-,0\rangle$ is a [groups](groups.md)
+$\langle N,+,-,0\rangle$ is a [group](groups.md)
 
 
-$\langle N,\cdot \rangle$ is a [semigroups](semigroups.md)
+$\langle N,\cdot \rangle$ is a [semigroup](semigroups.md)
 
 
 $\cdot$ right-distributes over $+$:  $(x+y)\cdot z=x\cdot z+y\cdot z$

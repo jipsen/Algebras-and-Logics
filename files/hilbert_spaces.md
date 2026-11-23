@@ -2,7 +2,7 @@
 
 Abbreviation: **Hilb**
 ## Definition
-A ***Hilbert space*** is a [vector spaces](vector_spaces.md) $\mathbf{H}$ with inner product $\langle\cdot , \cdot\rangle$,
+A ***Hilbert space*** is a [vector space](vector_spaces.md) $\mathbf{H}$ with inner product $\langle\cdot , \cdot\rangle$,
 which is complete in the corresponding metric.
 
   

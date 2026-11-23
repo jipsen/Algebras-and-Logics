@@ -2,7 +2,7 @@
 
 Abbreviation: **FL$_e$**
 ## Definition
-A ***full Lambek algebra with exchange***, or ***FLe-algebra***, is a [FL-algebras](fl-algebras.md) 
+A ***full Lambek algebra with exchange***, or ***FLe-algebra***, is a [FL-algebra](fl-algebras.md) 
 $\langle A, \vee, 0, \wedge, T, \cdot, 1, \backslash, /\rangle$ such that
 
 

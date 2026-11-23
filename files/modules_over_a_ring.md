@@ -5,7 +5,7 @@ Abbreviation: **RMod**
 A ***module over a [rings with identity](rings_with_identity.md)*** $\mathbf{R}$ is a structure $\mathbf{A}=\langle A,+,-,0,f_r\ (r\in R)\rangle$ such that
 
 
-$\langle A,+,-,0\rangle$ is an [abelian groups](abelian_groups.md)
+$\langle A,+,-,0\rangle$ is an [abelian group](abelian_groups.md)
 
 
 $f_r$ preserves addition:  

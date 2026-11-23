@@ -2,7 +2,7 @@
 
 Abbreviation: **CSgrp**
 ## Definition
-A ***commutative semigroup*** is a [semigroups](semigroups.md) $\mathbf{S}=\langle
+A ***commutative semigroup*** is a [semigroup](semigroups.md) $\mathbf{S}=\langle
 S,\cdot \rangle$ such that
 
 $\cdot$ is commutative:  $xy=yx$

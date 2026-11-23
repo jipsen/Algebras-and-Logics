@@ -2,7 +2,7 @@
 
 Abbreviation: **CSlat**
 ## Definition
-A ***complete semilattice*** is a [directed complete partial orders](directed_complete_partial_orders.md) $\mathbf{P}=\langle P,\leq \rangle$
+A ***complete semilattice*** is a [directed complete partial order](directed_complete_partial_orders.md) $\mathbf{P}=\langle P,\leq \rangle$
 such that every nonempty subset of $P$ has a greatest lower bound: 
 $\forall S\subseteq P\ (S\ne\emptyset\Longrightarrow \exists z\in P(z=\bigwedge S))$.
 ### Morphisms

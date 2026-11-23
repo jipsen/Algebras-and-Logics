@@ -5,7 +5,7 @@ Abbreviation: **RSgrp**
 An element $x$ of a semigroup $S$ is said to be ***regular*** if exists $y$ in $S$ such that $xyx=x$. 
 
 ## Definition
-A ***regular semigroup*** is a [semigroups](semigroups.md) $\mathbf{S}=\langle
+A ***regular semigroup*** is a [semigroup](semigroups.md) $\mathbf{S}=\langle
 S,\cdot \rangle$ such that
 each element is regular.
 

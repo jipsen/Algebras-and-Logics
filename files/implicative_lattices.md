@@ -4,7 +4,7 @@ Abbreviation: **ImpLat**
 ## Definition
 An ***implicative lattice*** is a structure $\mathbf{A}=\langle A,\vee,\wedge,\to\rangle$ such that 
 
-$\langle A,\vee,\wedge\rangle$ is a [distributive lattices](distributive_lattices.md)
+$\langle A,\vee,\wedge\rangle$ is a [distributive lattice](distributive_lattices.md)
 $\to$ is an implication: 
 
 

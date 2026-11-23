@@ -2,10 +2,10 @@
 
 Abbreviation: **CdMLat**
 ## Definition
-A ***complemented modular lattice*** is a [complemented lattices](complemented_lattices.md) 
+A ***complemented modular lattice*** is a [complemented lattice](complemented_lattices.md) 
 $\mathbf{L}=\langle L,\vee ,0,\wedge ,1\rangle$ that is
 
-[modular lattices](modular_lattices.md):  $(( x\wedge z) \vee y) \wedge z=( x\wedge z) \vee ( y\wedge z)$
+[modular](modular_lattices.md):  $(( x\wedge z) \vee y) \wedge z=( x\wedge z) \vee ( y\wedge z)$
 ### Morphisms
 Let $\mathbf{L}$ and $\mathbf{M}$ be complemented modular lattices. A morphism from $\mathbf{L}$ to $\mathbf{M}$ is a function $h:L\to M$ that is a
 bounded lattice homomorphism: 

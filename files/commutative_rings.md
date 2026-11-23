@@ -2,7 +2,7 @@
 
 Abbreviation: **CRng**
 ## Definition
-A ***commutative ring*** is a [rings](rings.md) $\mathbf{R}=\langle R,+,-,0,\cdot\rangle$ such that
+A ***commutative ring*** is a [ring](rings.md) $\mathbf{R}=\langle R,+,-,0,\cdot\rangle$ such that
 
 $\cdot$ is commutative:  $x\cdot y=y \cdot x$
 

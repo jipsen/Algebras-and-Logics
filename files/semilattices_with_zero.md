@@ -5,7 +5,7 @@ Abbreviation: **Slat$_0$**
 A ***semilattice with zero*** is a structure $\mathbf{S}=\langle S,\cdot,0\rangle$ of type $\langle 2,0\rangle$ such that
 
 
-$\langle S,\cdot\rangle$ is a [semilattices](semilattices.md)
+$\langle S,\cdot\rangle$ is a [semilattice](semilattices.md)
 
 
 $0$ is a zero for $\cdot$:  $x\cdot 0=0$

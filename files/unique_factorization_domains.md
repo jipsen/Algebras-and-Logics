@@ -2,7 +2,7 @@
 
 Abbreviation: **UFDom**
 ## Definition
-A ***unique factorization domain*** is an [integral domains](integral_domains.md) $D$ such that
+A ***unique factorization domain*** is an [integral domain](integral_domains.md) $D$ such that
 
 
 every element is a product of irreducibles:  $\forall a\in D \exists p_1,...,p_r\in D, n_1,...,n_r\in \mathbb{N}$ such that $a=p_1^{n_1}\cdotp_2^{n_2}...p_r^{n_r}$ and 

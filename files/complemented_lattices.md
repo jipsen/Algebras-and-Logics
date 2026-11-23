@@ -2,7 +2,7 @@
 
 Abbreviation: **CdLat**
 ## Definition
-A ***complemented lattice*** is a [bounded lattices](bounded_lattices.md) $\mathbf{L}=\langle L,\vee ,0,\wedge ,1\rangle$ such that
+A ***complemented lattice*** is a [bounded lattice](bounded_lattices.md) $\mathbf{L}=\langle L,\vee ,0,\wedge ,1\rangle$ such that
 
 every element has a complement:  $\exists y(x\vee y=1\text{ and }x\wedge y=0)$
 

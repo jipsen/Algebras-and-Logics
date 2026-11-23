@@ -2,7 +2,7 @@
 
 Abbreviation: **CInvSgrp**
 ## Definition
-A ***commutative inverse semigroup*** is an [inverse semigroups](inverse_semigroups.md) $\mathbf{S}=\langle
+A ***commutative inverse semigroup*** is an [inverse semigroup](inverse_semigroups.md) $\mathbf{S}=\langle
 S,\cdot,^{-1}\rangle$ such that 
 
 $\cdot$ is commutative:  $xy=yx$

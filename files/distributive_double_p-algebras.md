@@ -5,10 +5,10 @@ Abbreviation: **DDblpAlg**
 A ***distributive double p-algebra*** is a structure $\mathbf{L}=\langle L,\vee ,0,\wedge ,1,^*,^+\rangle$ such that
 
 
-$\langle L,\vee,0,\wedge,1,^*\rangle$ is a [distributive p-algebras](distributive_p-algebras.md)
+$\langle L,\vee,0,\wedge,1,^*\rangle$ is a [distributive p-algebra](distributive_p-algebras.md)
 
 
-$\langle L,\vee,0,\wedge,1,^+\rangle$ is a [distributive dual p-algebras](distributive_dual_p-algebras.md)
+$\langle L,\vee,0,\wedge,1,^+\rangle$ is a [distributive dual p-algebra](distributive_dual_p-algebras.md)
 
 ### Morphisms
 Let $\mathbf{L}$ and $\mathbf{M}$ be distributive double p-algebras. A morphism from $\mathbf{L}$ to $\mathbf{M}$ is a function $h:L\rightarrow M$ that is a

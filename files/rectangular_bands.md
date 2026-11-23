@@ -2,12 +2,12 @@
 
 Abbreviation: **RBand**
 ## Definition
-A ***rectangular band*** is a [bands](bands.md) $\mathbf{B}=\langle B,\cdot
+A ***rectangular band*** is a [band](bands.md) $\mathbf{B}=\langle B,\cdot
 \rangle$ such that
 
 $\cdot$ is rectangular:  $x\cdot y\cdot x=x$.
 ## Definition
-A ***rectangular band*** is a [bands](bands.md) $\mathbf{B}=\langle B,\cdot
+A ***rectangular band*** is a [band](bands.md) $\mathbf{B}=\langle B,\cdot
 \rangle$ such that
 
 $x\cdot y\cdot z=x\cdot z$.

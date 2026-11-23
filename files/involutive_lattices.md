@@ -5,7 +5,7 @@ Abbreviation: **InvLat**
 An ***involutive lattice*** is a structure $\mathbf{A}=\langle A,\vee,\wedge,\neg\rangle$ such that
 
 
-$\langle A,\vee,\wedge\rangle$ is a [lattices](lattices.md)
+$\langle A,\vee,\wedge\rangle$ is a [lattice](lattices.md)
 
 
 $\neg$ is a De Morgan involution:  $\neg( x\wedge

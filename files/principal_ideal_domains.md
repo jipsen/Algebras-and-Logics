@@ -2,7 +2,7 @@
 
 Abbreviation: **PIDom**
 ## Definition
-A ***principal ideal domain*** is an [integral domains](integral_domains.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1\rangle$ in which 
+A ***principal ideal domain*** is an [integral domain](integral_domains.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1\rangle$ in which 
 
 
 every ideal is principal:  $\forall I \in Idl(R)\ \exists a \in R\ (I=aR)$
@@ -11,7 +11,7 @@ Ideals are defined for [commutative rings](commutative_rings.md)
 
 ### Morphisms
 ## Examples
-Example 1: ${a+b\theta  | a,b\in Z, \theta=\langle 1+ \langle-19\rangle^{1/2}\rangle/2}$ is a Principal Ideal Domain that is not an [Euclidean domains](euclidean_domains.md)
+Example 1: ${a+b\theta  | a,b\in Z, \theta=\langle 1+ \langle-19\rangle^{1/2}\rangle/2}$ is a Principal Ideal Domain that is not a [Euclidean domain](euclidean_domains.md)
 
 See Oscar Campoli's "A Principal Ideal Domain That Is Not a Euclidean Domain" in <i>The American Mathematical Monthly</i> 95 (1988): 868-871
 

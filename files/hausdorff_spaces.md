@@ -3,7 +3,7 @@
 Abbreviation: **Haus**
 
 ## Definition
-A ***Hausdorff space*** or ***$T_2$-space*** is a [topological spaces](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that
+A ***Hausdorff space*** or ***$T_2$-space*** is a [topological space](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that
 
 
 for every pair of distinct points in the space, there is a pair of disjoint open sets containing each point:  $x,y\in X\Longrightarrow\exists U,V\in\Omega(\mathbf{X})[x\in U\text{ and }y\in V\text{ and }U\cap V=\emptyset]$

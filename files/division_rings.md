@@ -55,7 +55,7 @@ $0$ is a zero for $\cdot$: $0\cdot x=x$ and $x\cdot 0=0$.
 |[Strong amalgamation property](strong_amalgamation_property.md)  | |
 |[Epimorphisms are surjective](epimorphisms_are_surjective.md)  | |
 ## Finite members
-Every finite division ring is a [fields](fields.md) (i.e. $\cdot$ is commutative).
+Every finite division ring is a [field](fields.md) (i.e. $\cdot$ is commutative).
 J. H. Maclagan-Wedderburn,***A theorem on finite algebras***,
 Trans. Amer. Math. Soc.,
 **6**1905,349--352

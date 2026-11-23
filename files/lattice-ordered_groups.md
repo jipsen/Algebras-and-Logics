@@ -42,7 +42,7 @@ homomorphism: $f(x\vee y)=f(x)\vee f(y)$, $f(x\wedge y)=f(x)\wedge f(y)$, $f(x\c
 
 ## Examples
 $\langle Aut(\mathbf{C}),\text{max},\text{min},\circ,^{-1},id_{\mathbf{C}}\rangle$, 
-the group of order-automorphisms of a [Chains](chains.md) $\mathbf{C}$, with $\text{max}$ and $\text{min}$ 
+the group of order-automorphisms of a [chain](chains.md) $\mathbf{C}$, with $\text{max}$ and $\text{min}$ 
 (applied pointwise), composition, inverse, and identity automorphism.
 
 

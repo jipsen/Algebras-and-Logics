@@ -2,8 +2,8 @@
 
 Abbreviation: **CliffSgrp**
 ## Definition
-A ***Clifford semigroup*** is an [inverse semigroups](inverse_semigroups.md) $\mathbf{S}=\langle
-S,\cdot,^{-1}\rangle$ that is also [completely regular semigroups](completely_regular_semigroups.md).
+A ***Clifford semigroup*** is an [inverse semigroup](inverse_semigroups.md) $\mathbf{S}=\langle
+S,\cdot,^{-1}\rangle$ that is also a [completely regular semigroup](completely_regular_semigroups.md).
 ## Definition
 A ***Clifford semigroup*** is a structure $\mathbf{S}=\langle
 S,\cdot,^{-1}\rangle$ such that

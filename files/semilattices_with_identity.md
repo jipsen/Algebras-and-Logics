@@ -5,7 +5,7 @@ Abbreviation: **Slat$_1$**
 A ***semilattice with identity*** is a structure $\mathbf{S}=\langle S,\cdot,1\rangle$ of type $\langle 2,0\rangle$ such that
 
 
-$\langle S,\cdot\rangle$ is a [semilattices](semilattices.md)
+$\langle S,\cdot\rangle$ is a [semilattice](semilattices.md)
 
 
 $1$ is an indentity for $\cdot$:  $x\cdot 1=x$

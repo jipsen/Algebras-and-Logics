@@ -1,7 +1,7 @@
 # Dense linear orders
 
 ## Definition
-A ***dense linear order*** is a [Chains](chains.md) $\mathbf{D}=\langle D,\le\rangle$ such that
+A ***dense linear order*** is a [chain](chains.md) $\mathbf{D}=\langle D,\le\rangle$ such that
 
 $\le$ is ***dense***:  $x<y\Longrightarrow\exists z (x<z$, $z<y)$
 

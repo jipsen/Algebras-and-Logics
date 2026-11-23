@@ -3,7 +3,7 @@
 Abbreviation: **GBA**
 
 ## Definition
-A ***generalized Boolean algebra*** is a [Brouwerian algebras](brouwerian_algebras.md) 
+A ***generalized Boolean algebra*** is a [Brouwerian algebra](brouwerian_algebras.md) 
 $\mathbf{A}=\langle A, \vee, \wedge, 1, \rightarrow\rangle$ such that
 
 $x\vee y=(x\rightarrow y)\rightarrow y$

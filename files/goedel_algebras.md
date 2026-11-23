@@ -3,7 +3,7 @@
 Abbreviation: **GödA**
 
 ## Definition
-A ***Gödel algebra*** is a [Heyting algebras](heyting_algebras.md) $\mathbf{A}=\langle A,\vee,0,\wedge,1,\rightarrow\rangle$ such that
+A ***Gödel algebra*** is a [Heyting algebra](heyting_algebras.md) $\mathbf{A}=\langle A,\vee,0,\wedge,1,\rightarrow\rangle$ such that
 
 $(x\to y)\vee(y\to x)=1$
 

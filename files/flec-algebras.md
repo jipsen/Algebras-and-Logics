@@ -2,7 +2,7 @@
 
 Abbreviation: **FL$_{ec}$**
 ## Definition
-A ***full Lambek algebra with exchange and contraction***, or ***FLec-algebra***, is a [FLe-algebras](fle-algebras.md) 
+A ***full Lambek algebra with exchange and contraction***, or ***FLec-algebra***, is a [FLe-algebra](fle-algebras.md) 
 $\langle A, \vee, 0, \wedge, T, \cdot, 1, \backslash, /\rangle$ such that
 
 
