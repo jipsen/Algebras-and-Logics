@@ -79,7 +79,7 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 14 | 21775814889230580 |
 | 15 | 2226876304576948549 |
 
-Sequence: [OEIS A091073](https://oeis.org/A091073) (transitive relations on $n$ unlabeled points). The values for $n\le 4$ were also checked by direct enumeration. The number of transitive relations on a fixed $n$-element set (labelled count) is [OEIS A006905](https://oeis.org/A006905).
+Sequence: [OEIS A091073](https://oeis.org/A091073) (transitive relations on $n$ unlabeled points). The number of transitive relations on a fixed $n$-element set (labelled count) is [OEIS A006905](https://oeis.org/A006905).
 
 ## Subclasses
   [Preordered sets](preordered_sets.md) subquasivariety
