@@ -58,7 +58,7 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 7 | 516791 |
 | 8 | 6817378 |
 
-[OEIS A084965](https://oeis.org/A084965)
+[OEIS A084965](https://oeis.org/A084965) (labeled totally ordered semigroups). Since a finite chain has no nontrivial order automorphisms, counting order-compatible semigroup operations on a fixed $n$-element chain is the same as counting up to isomorphism.
 
 ## Subclasses
 [Commutative ordered semigroups](commutative_ordered_semigroups.md)

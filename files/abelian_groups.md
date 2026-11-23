@@ -88,7 +88,7 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 17 | 1 | 1 |
 | 18 | 2 | 0 |
 | 19 | 1 | 1 |
-| 20 | 1 | 0 |
+| 20 | 2 | 0 |
 | 21 | 1 | 0 |
 | 22 | 1 | 0 |
 | 23 | 1 | 1 |

@@ -73,13 +73,9 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 9 | 30 |
 | 10 | 42 |
 
-The number of (labelled) equivalance relations on an $n$ element set given by a sum of Stirlings formula (of the second kind). 
+An equivalence relation on $n$ elements is determined up to isomorphism by the sizes of its blocks, so the table gives the number of integer partitions of $n$, [OEIS A000041](https://oeis.org/A000041).
 
-see also [OEIS A000110](https://oeis.org/A000110)
-
-The number of (nonisomorphic) equivalence relations is the number of partition patterns (= number of integer partitions).
-
-see also [OEIS A000041](https://oeis.org/A000041)
+The number of (labelled) equivalence relations on a fixed $n$-element set is the Bell number $B_n=\sum_{k} S(n,k)$, a sum of Stirling numbers of the second kind, [OEIS A000110](https://oeis.org/A000110).
 
 ## Subclasses
 
