@@ -90,7 +90,7 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 16 |  | 44483 |
 | 17 |  | 116372 |
 
-see [OEIS A030453](https://oeis.org/A030453)
+For $n\ge 2$ the subdirectly irreducible column agrees with [OEIS A034786](https://oeis.org/A034786) (linearly ordered Girard monoids of size $n$); OEIS also counts the 1-element monoid, which is not subdirectly irreducible. No OEIS entry was found for the members column.
 
 ## Subclasses
 TBD 

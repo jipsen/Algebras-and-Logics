@@ -54,8 +54,9 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 3 | 43968 |
 | 4 | 6358196250 |
 | 5 | 236919104155855296 |
+| 6 | 3682959509036574988532481464 |
 
-See [OEIS A090601](https://oeis.org/A090601)
+The value for $n$ is $a(n+1)$ in [OEIS A090601](https://oeis.org/A090601) (groupoids with identity): replacing undefined products by a new element gives groupoids on $n+1$ elements with one fixed row and column. Values verified with Burnside's lemma.
 
 ## Subclasses
 [Groupoids](groupoids.md)

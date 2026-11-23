@@ -53,8 +53,11 @@ Number of members with $n$ elements, counted up to isomorphism.
 | 2 | 3 |
 | 3 | 44 |
 | 4 | 14022 |
+| 5 | 207392556 |
+| 6 | 193491859167624 |
+| 7 | 16390160979986065741152 |
 
-See [OEIS A193623](https://oeis.org/A193623)
+The value for $n$ is $a(n+1)$ in [OEIS A193623](https://oeis.org/A193623). Values verified with Burnside's lemma, using that a right quasigroup is determined by a multiplication table whose columns are permutations.
 
 ## Subclasses
 [Right loops](right_loops.md) 
