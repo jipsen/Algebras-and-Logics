@@ -50,6 +50,8 @@ Number of members with $n$ elements, counted up to isomorphism.
 [Connected qosets](connected_qosets.md) 
 
 ## Superclasses
+[Transitive relations](transitive_relations.md) 
+
 [Binary relational structures](binary_relational_structures.md) 
 
 
