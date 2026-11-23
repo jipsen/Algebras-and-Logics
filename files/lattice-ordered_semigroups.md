@@ -7,7 +7,7 @@ A ***lattice-ordered semigroup*** (or ***$\ell$-semigroup***) is a structure $\m
 
 $\langle A,\vee,\wedge\rangle$ is a [lattice](lattices.md)
 
-$\langle A,\cdot\rangle$ is a [semigroups](semigroups.md)
+$\langle A,\cdot\rangle$ is a [semigroup](semigroups.md)
 
 $\cdot$ distributes over $\vee$:  $x(y\vee z)=xy\vee xz$, $(x\vee y)z=xz\vee yz$
 

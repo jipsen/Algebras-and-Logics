@@ -3,7 +3,7 @@
 Abbreviation: **Top$_0$**
 
 ## Definition
-A ***$T_0$-space*** is a [topological spaces](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that
+A ***$T_0$-space*** is a [topological space](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that
 
 
 for every pair of distinct points in the space, there is an open set containing one but not the other:  $x,y\in X\Longrightarrow\exists U\in\Omega(\mathbf{X})[(x\in U\text{ and }y\notin U)\text{ or }(y\in U\text{ and }x\notin U)]$

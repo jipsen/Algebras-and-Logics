@@ -2,7 +2,7 @@
 
 Abbreviation: **NdLat**
 ## Definition
-A ***neardistributive lattice*** is a [Lattices](lattices.md) $\mathbf{L}=\langle L,\vee
+A ***neardistributive lattice*** is a [lattice](lattices.md) $\mathbf{L}=\langle L,\vee
 ,\wedge \rangle$ such that
 
 

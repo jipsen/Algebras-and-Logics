@@ -8,7 +8,7 @@ A ***Boolean semigroup*** is a structure $\mathbf{A}=\langle A,\vee,0,
 $\langle A,\vee,0,
 \wedge,1,\neg\rangle$ is a [Boolean algebra](boolean_algebras.md)
 
-$\langle A,\cdot\rangle$ is a [semigroups](semigroups.md)
+$\langle A,\cdot\rangle$ is a [semigroup](semigroups.md)
 
 $\cdot$ is ***join-preserving*** in each argument:  
 $(x\vee y)\cdot z=(x\cdot z)\vee (y\cdot z) \text{ and } x\cdot (y\vee z)=(x\cdot y)\vee (x\cdot z)$

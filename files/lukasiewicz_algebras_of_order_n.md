@@ -6,7 +6,7 @@ A ***Lukasiewicz algebra of order $n$*** is a structure $\mathbf{A}=\langle A,\v
 ,0,\wedge ,1,\neg,\sigma_0,\ldots,\sigma_{n-1}\rangle$ such that
 
 
-$\langle A,\vee ,0,\wedge ,1, \neg\rangle$ is a [De Morgan algebras](de_morgan_algebras.md)
+$\langle A,\vee ,0,\wedge ,1, \neg\rangle$ is a [De Morgan algebra](de_morgan_algebras.md)
 
 
 1. 

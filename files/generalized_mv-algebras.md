@@ -3,7 +3,7 @@
 Abbreviation: **GMV**
 
 ## Definition
-A ***generalized MV-algebra*** is a [residuated lattices](residuated_lattices.md) 
+A ***generalized MV-algebra*** is a [residuated lattice](residuated_lattices.md) 
 $\mathbf{L}=\langle L,\vee, \wedge, \cdot, e, \backslash, /\rangle$ such that
 
 $x\vee y=x/(y\backslash x\wedge e)$, $x\vee y=(x/y\wedge e)\backslash y$

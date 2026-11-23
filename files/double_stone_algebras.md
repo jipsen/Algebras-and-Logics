@@ -5,10 +5,10 @@ Abbreviation: **DblStAlg**
 A ***double Stone algebra*** is a structure $\mathbf{L}=\langle L,\vee ,0,\wedge ,1,^*\rangle$ such that
 
 
-$\langle L,\vee,0,\wedge,1,^*\rangle$ is a [Stone algebras](stone_algebras.md)
+$\langle L,\vee,0,\wedge,1,^*\rangle$ is a [Stone algebra](stone_algebras.md)
 
 
-$\langle L,\wedge,1,\vee,0,^*\rangle$ is a [Stone algebras](stone_algebras.md)
+$\langle L,\wedge,1,\vee,0,^*\rangle$ is a [Stone algebra](stone_algebras.md)
 
 ### Morphisms
 Let $\mathbf{L}$ and $\mathbf{M}$ be double Stone algebras. A morphism from $\mathbf{L}$ to $\mathbf{M}$ is a function $h:L\rightarrow M$ that is a

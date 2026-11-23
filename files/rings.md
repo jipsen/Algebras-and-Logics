@@ -6,10 +6,10 @@ A ***ring*** is a structure $\mathbf{R}=\langle R,+,-,0,\cdot
 \rangle$ of type $\langle 2,1,0,2\rangle$ such that
 
 
-$\langle R,+,-,0\rangle$ is an [abelian groups](abelian_groups.md)
+$\langle R,+,-,0\rangle$ is an [abelian group](abelian_groups.md)
 
 
-$\langle R,\cdot \rangle$ is a [semigroups](semigroups.md)
+$\langle R,\cdot \rangle$ is a [semigroup](semigroups.md)
 
 
 $\cdot$ distributes over $+$:  $x\cdot (y+z)=x\cdot y+x\cdot z$, $(y+z)\cdot x=y\cdot x+z\cdot x$

@@ -3,7 +3,7 @@
 Abbreviation: **APos**
 
 ## Definition
-An ***algebraic poset*** is a [directed complete partial orders](directed_complete_partial_orders.md) $\mathbf{P}=\langle P,\leq \rangle$
+An ***algebraic poset*** is a [directed complete partial order](directed_complete_partial_orders.md) $\mathbf{P}=\langle P,\leq \rangle$
 such that
 
 the set of compact elements below any element is directed and

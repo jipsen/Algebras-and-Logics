@@ -10,7 +10,7 @@ $\langle A,\vee,0,
 \wedge,1,\neg\rangle$ is a [Boolean algebra](boolean_algebras.md)
 
 
-$\langle A,\cdot,e\rangle$ is a [monoids](monoids.md)
+$\langle A,\cdot,e\rangle$ is a [monoid](monoids.md)
 
 
 $\cdot$ is ***join-preserving*** in each argument:  

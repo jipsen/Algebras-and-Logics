@@ -2,7 +2,7 @@
 
 Abbreviation: **CRRng**
 ## Definition
-A ***commutative regular ring*** is a [regular rings](regular_rings.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1
+A ***commutative regular ring*** is a [regular ring](regular_rings.md) $\mathbf{R}=\langle R,+,-,0,\cdot,1
 \rangle$ such that 
 $\cdot$ is commutative:  $x\cdot y=y\cdot x$
 

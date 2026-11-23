@@ -6,7 +6,7 @@ Abbreviation: **pcDLat**
 A ***pseudocomplemented distributive lattice*** is a structure $\mathbf{L}=\langle L,\vee,0,\wedge,^*\rangle$ such that
 
 
-$\langle L,\vee,0,\wedge\rangle$ is a [distributive lattices](distributive_lattices.md) with bottom element $0$
+$\langle L,\vee,0,\wedge\rangle$ is a [distributive lattice](distributive_lattices.md) with bottom element $0$
 
 
 $x^*$ is the ***pseudo complement*** of $x$:  $y\leq x^* \iff x\wedge y=0$
@@ -20,7 +20,7 @@ $h(x\vee y)=h(x)\vee h(y)$, $h(x\wedge y)=h(x)\wedge h(y)$, $h(0)=0$, $h(x^*)=h(
 A ***pseudocomplemented distributive lattice*** is a structure $\mathbf{L}=\langle L,\vee,0,\wedge,^*\rangle$ such that
 
 
-$\langle L,\vee,0,\wedge\rangle$ is a [distributive lattices](distributive_lattices.md)
+$\langle L,\vee,0,\wedge\rangle$ is a [distributive lattice](distributive_lattices.md)
 
 
 $0$ is the bottom element:  $0\leq x$

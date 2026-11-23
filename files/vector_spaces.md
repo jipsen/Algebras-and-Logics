@@ -5,7 +5,7 @@ Abbreviation: **FVec**
 A ***vector space*** over a [field](fields.md) $\mathbf{F}$ is a structure $\mathbf{V}=\langle V,+,-,0,f_a\ (a\in F)\rangle$ such that
 
 
-$\langle V,+,-,0\rangle$ is an [abelian groups](abelian_groups.md)
+$\langle V,+,-,0\rangle$ is an [abelian group](abelian_groups.md)
 
 
 scalar product $f_a$ distributes over vector addition:  

@@ -6,7 +6,7 @@ A ***near-ring with identity*** is a structure $\mathbf{N}=\langle N,+,-,0,\cdot
 \rangle$ of type $\langle 2,1,0,2,0\rangle$ such that
 
 
-$\langle N,+,-,0,\cdot\rangle$ is a [near-rings](near-rings.md)
+$\langle N,+,-,0,\cdot\rangle$ is a [near-ring](near-rings.md)
 
 
 $1$ is a ***multiplicative identity***:  $x\cdot 1=x\text{and}1\cdot x=x$

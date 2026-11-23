@@ -2,7 +2,7 @@
 
 Abbreviation: **CMon**
 ## Definition
-A ***commutative monoid*** is a [monoids](monoids.md) $\mathbf{M}=\langle M,\cdot
+A ***commutative monoid*** is a [monoid](monoids.md) $\mathbf{M}=\langle M,\cdot
 ,e\rangle$ such that
 
 $\cdot$ is commutative:  $x\cdot y=y\cdot x$

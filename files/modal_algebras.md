@@ -8,7 +8,7 @@ A ***modal algebra*** is a structure $\mathbf{A}=\langle A,\vee,0,
 
 
 $\langle A,\vee,0,
-\wedge,1,\neg\rangle$ is a [Boolean algebras](boolean_algebras.md)
+\wedge,1,\neg\rangle$ is a [Boolean algebra](boolean_algebras.md)
 
 
 $\diamond$ is ***join-preserving***:  

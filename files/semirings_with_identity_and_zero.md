@@ -7,10 +7,10 @@ A ***semiring with identity and zero*** is a structure $\mathbf{S}=\langle S,+,0
 \rangle$ of type $\langle 2,0,2,0\rangle$ such that
 
 
-$\langle S,+,0\rangle$ is a [commutative monoids](commutative_monoids.md)
+$\langle S,+,0\rangle$ is a [commutative monoid](commutative_monoids.md)
 
 
-$\langle S,\cdot,1\rangle$ is a [monoids](monoids.md)
+$\langle S,\cdot,1\rangle$ is a [monoid](monoids.md)
 
 
 $0$ is a zero for $\cdot$:  $0\cdot x=0$, $x\cdot 0=0$

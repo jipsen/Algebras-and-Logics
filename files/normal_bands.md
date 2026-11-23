@@ -2,7 +2,7 @@
 
 Abbreviation: **NBand**
 ## Definition
-A ***normal band*** is a [bands](bands.md) $\mathbf{B}=\langle B,\cdot
+A ***normal band*** is a [band](bands.md) $\mathbf{B}=\langle B,\cdot
 \rangle$ such that
 
 $\cdot$ is normal:  $x\cdot y\cdot z\cdot x=x\cdot z\cdot y\cdot x$.

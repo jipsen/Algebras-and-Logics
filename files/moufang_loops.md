@@ -2,7 +2,7 @@
 
 Abbreviation: **MLoop**
 ## Definition
-A ***Moufang loop*** is a [loops](loops.md) $\mathbf{A}=\langle A,\cdot ,\backslash,/,e\rangle$ such that
+A ***Moufang loop*** is a [loop](loops.md) $\mathbf{A}=\langle A,\cdot ,\backslash,/,e\rangle$ such that
 
 
 $((xy)z)x = x(y(zx))$, $y(x(yz)) = ((yx)y)z$, $(yx)(zy) = (y(xz))y$

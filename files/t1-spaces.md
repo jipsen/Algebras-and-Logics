@@ -3,7 +3,7 @@
 Abbreviation: **Top$_1$**
 
 ## Definition
-A ***$T_1$-space*** is a [topological spaces](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that
+A ***$T_1$-space*** is a [topological space](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that
 
 
 for every pair of distinct points in the space, there is a pair of open sets containing each point but not the other:  $x,y\in X\Longrightarrow\exists U,V\in\Omega(\mathbf{X})[x\in U\setminus V\text{ and }y\in V\setminus U]$
@@ -15,7 +15,7 @@ A morphism from $\mathbf{X}$ to $\mathbf{Y}$ is a function $f:X\rightarrow Y$ th
 $V\in\Omega(\mathbf{Y})\Longrightarrow f^{-1}[V]\in\Omega(\mathbf{X})$
 
 ## Definition
-A ***$T_1$-space*** is a [topological spaces](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that all
+A ***$T_1$-space*** is a [topological space](topological_spaces.md) $\mathbf{X}=\langle X,\Omega(\mathbf{X})\rangle$ such that all
 
 singleton subsets are closed:  $X\setminus\{x\}\in\Omega(\mathbf{X})$
 
